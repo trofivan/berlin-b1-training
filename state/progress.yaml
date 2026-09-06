@@ -1,0 +1,53 @@
+version: 1
+updated: null
+
+exam_readiness:
+  overall: null
+  note: "Baseline not measured yet."
+
+skills:
+  kennenlernen:
+    score: null
+    trend: unknown
+    evidence: []
+  foto_beschreiben:
+    score: null
+    trend: unknown
+    evidence: []
+  situation_besprechen:
+    score: null
+    trend: unknown
+    evidence: []
+  schreiben:
+    score: null
+    trend: unknown
+    evidence: []
+  lesen:
+    score: null
+    trend: unknown
+    evidence: []
+  wortschatz:
+    score: null
+    trend: unknown
+    evidence: []
+  grammatik:
+    score: null
+    trend: unknown
+    evidence: []
+  fluessigkeit:
+    score: null
+    trend: unknown
+    evidence: []
+  aufgabenverstaendnis:
+    score: null
+    trend: unknown
+    evidence: []
+
+topics: {}
+
+current_priorities:
+  - "Establish baseline."
+  - "Build productive Redemittel inventory."
+  - "Measure spontaneous speaking across several exam topics."
+
+next_retrieval: []
