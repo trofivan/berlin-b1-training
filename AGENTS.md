@@ -426,6 +426,17 @@ Keep statuses clean and avoid duplicates.
 
 After updates, make sure these files do not contradict each other.
 
+## Git workflow
+
+After making repository changes:
+
+1. inspect and verify the changes;
+2. give the learner a concise summary and offer the full diff for review;
+3. wait for the learner's explicit approval to commit;
+4. create the commit only after that approval.
+
+Do not commit automatically, including after a completed training session.
+
 ## Session closing
 
 At the end of a normal session briefly tell the learner:
