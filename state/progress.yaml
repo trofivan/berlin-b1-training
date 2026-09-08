@@ -1,23 +1,26 @@
 version: 1
-updated: null
+updated: 2026-09-08
 
 exam_readiness:
   overall: null
-  note: "Baseline not measured yet."
+  note: "Partial baseline: one written speaking-style sample and one situation discussion; no Lesen or handwritten Schreiben evidence yet."
 
 skills:
   kennenlernen:
-    score: null
+    score: 3
     trend: unknown
-    evidence: []
+    evidence:
+      - "2026-09-07: Substantial personal introduction with reasons, opinions, and Berlin detail; recurring case/ending errors."
   foto_beschreiben:
     score: null
     trend: unknown
     evidence: []
   situation_besprechen:
-    score: null
+    score: 3
     trend: unknown
-    evidence: []
+    evidence:
+      - "2026-09-07: Discussed a neighbours' picnic, reacted to an objection, proposed Tempelhofer Feld and a rain solution."
+      - "2026-09-08: Planned a colleague's farewell dinner; could react, identify availability/food constraints, and propose coordination after correction."
   schreiben:
     score: null
     trend: unknown
@@ -27,27 +30,43 @@ skills:
     trend: unknown
     evidence: []
   wortschatz:
-    score: null
+    score: 3
     trend: unknown
-    evidence: []
+    evidence:
+      - "2026-09-07: Useful planning language; needed support for sich kennenlernen, einen Pavillon aufstellen, and einen Aushang aufhängen."
   grammatik:
-    score: null
+    score: 2
     trend: unknown
-    evidence: []
+    evidence:
+      - "2026-09-07: Productive dass/deshalb/obwohl and Konjunktiv II, but recurring article/case errors, missed zu + infinitive, and inversion issue after obwohl."
+      - "2026-09-08: Retrieved obwohl inversion and zu + infinitive correctly after one day; articles/endings remained recurring, and modal infinitive briefly attracted an incorrect zu."
   fluessigkeit:
     score: null
     trend: unknown
     evidence: []
   aufgabenverstaendnis:
-    score: null
+    score: 3
     trend: unknown
-    evidence: []
+    evidence:
+      - "2026-09-07: Addressed options, advantages, a problem, and a compromise after prompting."
 
-topics: {}
+topics:
+  berlin_grossstadt:
+    personal_experience: 3
+    opinion: 3
+    advantages_disadvantages: 3
+    dialogue: 3
+    note: "Initial evidence only; production was typed, not spoken."
 
 current_priorities:
-  - "Establish baseline."
-  - "Build productive Redemittel inventory."
-  - "Measure spontaneous speaking across several exam topics."
+  - "Complete baseline with Foto beschreiben, Lesen, and handwritten Schreiben."
+  - "Stabilize articles/cases in high-frequency planning phrases."
+  - "Retrieve obwohl + main-clause inversion and zu + infinitive."
+  - "Build spontaneous situation-discussion Redemittel."
 
-next_retrieval: []
+next_retrieval:
+  - "Ich halte die Idee für gut. / Ich finde die Idee gut."
+  - "wissen, dass ... vs. jemanden/etwas kennen"
+  - "Modalverb + Infinitiv ohne zu"
+  - "Obwohl ... ist, Verb + Subjekt ... in a new topic"
+  - "articles/adjective endings: eine Nachricht, ein vegetarisches Restaurant"
