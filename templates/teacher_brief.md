@@ -1,5 +1,9 @@
 # Vorbereitung für die nächste Deutschstunde
 
+**Aktualisiert:**
+
+**Berücksichtigt bis:**
+
 ## Kurzkontext
 
 ## Aktuelle Stärken
@@ -12,27 +16,9 @@
 2.
 3.
 
-## Redemittel, die aktiviert werden sollen
+## Zuletzt geübte Redemittel
 
 - 
 - 
-
-## Gespräch 1
-
-### Thema
-
-### Fragen
-- 
-- 
-
-### Spontane Rückfragen
-- 
-- 
-
-## Rollenspiel 1
-
-## Rollenspiel 2
 
 ## Bitte besonders darauf achten
-
-## Optionaler Grammatikfokus

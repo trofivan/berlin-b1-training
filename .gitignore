@@ -3,3 +3,6 @@
 .vscode/
 *.swp
 *.tmp
+.venv/
+dist/
+__pycache__/

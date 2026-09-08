@@ -351,20 +351,17 @@ The teacher is a native German speaker. Lessons should mostly stay in German.
 
 When generating `teacher/next_lesson.md`:
 
-Write the teacher-facing exercise material primarily in **German**.
+Write the teacher-facing summary primarily in **German**.
 
 Include:
 1. short context since last lesson;
 2. current strongest and weakest areas;
 3. 5–10 real mistakes/examples when available;
-4. target Redemittel;
-5. suggested dialogue questions;
-6. 2–3 role plays;
-7. follow-up questions designed to remove preparation time;
-8. what to listen for;
-9. optional short grammar focus.
+4. recently practised Redemittel;
+5. what currently needs attention;
+6. the last included session as a checkpoint.
 
-Do not turn the teacher into a worksheet proctor. Use their biggest advantage: natural dialogue, interruption, follow-ups, reformulation and real-time pressure.
+Do not create exercises, dialogue questions, role plays, or a lesson plan unless the learner explicitly asks for them. The default artifact is a concise informational summary for the teacher.
 
 Keep the brief reasonably short.
 

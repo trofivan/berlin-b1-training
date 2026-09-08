@@ -112,3 +112,16 @@ Important files:
 - `teacher/`
 
 Git history provides a long-term record of changes.
+
+## Web dashboard
+
+The static dashboard is generated directly from the repository state, session logs, vocabulary, and teacher summary.
+
+Local preview:
+
+```sh
+make setup
+make preview
+```
+
+Open `http://localhost:8000`. A GitHub Actions workflow rebuilds and deploys the site to GitHub Pages after every push to `main`.
