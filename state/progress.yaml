@@ -3,7 +3,7 @@ updated: 2026-09-08
 
 exam_readiness:
   overall: null
-  note: "Partial baseline: one typed personal introduction and two typed situation discussions; no Lesen, handwritten Schreiben, photo, or spoken-fluency evidence yet."
+  note: "Partial baseline includes first handwritten email (2026-09-08-2). Underlined items uncertain or possibly looked up. No Lesen, photo, or spoken-fluency evidence yet."
 
 skills:
   kennenlernen:
@@ -22,9 +22,10 @@ skills:
       - "2026-09-07: Discussed a neighbours' picnic, reacted to an objection, proposed Tempelhofer Feld and a rain solution."
       - "2026-09-08: Planned a colleague's farewell dinner; could react, identify availability/food constraints, and propose coordination after correction."
   schreiben:
-    score: null
+    score: 3
     trend: unknown
-    evidence: []
+    evidence:
+      - "2026-09-08-2: First handwritten email covers all four points; approximately 140 words vs requested 70–90. Clause/case errors and uncertain or assisted underlined words. Provisional baseline."
   lesen:
     score: null
     trend: unknown
@@ -40,6 +41,7 @@ skills:
     evidence:
       - "2026-09-07: Productive dass/deshalb/obwohl and Konjunktiv II, but recurring article/case errors, missed zu + infinitive, and inversion issue after obwohl."
       - "2026-09-08: Retrieved obwohl inversion and zu + infinitive correctly after one day; articles/endings remained recurring, and modal infinitive briefly attracted an incorrect zu."
+      - "2026-09-08-2: Short obwohl clauses often correct, longer handwritten clause failed. Repeated wann/wenn, registration-preposition and modal-zu errors; final retries correct with support."
   fluessigkeit:
     score: null
     trend: unknown
@@ -59,14 +61,15 @@ topics:
     note: "Initial evidence only; production was typed, not spoken."
 
 current_priorities:
-  - "Complete baseline with Foto beschreiben, Lesen, and handwritten Schreiben."
+  - "Complete baseline with Foto beschreiben, Lesen, and spoken fluency; confirm Schreiben with another sample."
   - "Stabilize articles/cases in high-frequency planning phrases."
   - "Retrieve obwohl + main-clause inversion and zu + infinitive."
   - "Build spontaneous situation-discussion Redemittel."
 
 next_retrieval:
-  - "Ich halte die Idee für gut. / Ich finde die Idee gut."
-  - "wissen, dass ... vs. jemanden/etwas kennen"
-  - "Modalverb + Infinitiv ohne zu"
-  - "Obwohl ... ist, Verb + Subjekt ... in a new topic"
-  - "articles/adjective endings: eine Nachricht, ein vegetarisches Restaurant"
+  - "sich für einen Kurs anmelden in a new context"
+  - "Könnten Sie mir sagen, wann … anfängt/endet?"
+  - "möchte + infinitive without zu vs Mein Ziel ist, … zu …"
+  - "kennen/wissen with correct noun gender"
+  - "obwohl in longer messages"
+  - "Underlined chunks: eine Prüfung bestehen, einen passenden Kurs; independent recall pending"

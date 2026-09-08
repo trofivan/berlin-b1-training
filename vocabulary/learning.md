@@ -30,7 +30,28 @@ Suggested entry format:
 - Example: `Ich weiß, dass er kommt. Ich kenne ihn.`
 - Topics: Alltag, Arbeit
 - Introduced: 2026-09-08
-- Evidence: corrected `Ich kenne, dass ...`; successful immediate retry, delayed retrieval pending
+- Evidence: session 2026-09-08-2 initial `Ich weiß dieses Kafe` failed; contrast correct on retry. Still LEARNING.
+
+## sich für einen Kurs anmelden
+- RU: записаться на курс
+- Example: `Ich möchte mich für den Abendkurs anmelden.`
+- Topics: Ausbildung, Alltag
+- Introduced: 2026-09-08-2
+- Evidence: repeated preposition/reflexive errors; final targeted retry correct, delayed recall pending. LEARNING.
+
+## Könnten Sie mir sagen, wann …?
+- RU: Не могли бы Вы сказать мне, когда …?
+- Example: `Könnten Sie mir sagen, wann der Kurs anfängt?`
+- Topics: Informationen erfragen
+- Introduced: 2026-09-08-2
+- Evidence: repeated wann/wenn and mich/mir errors; simpler indirect question correct after support. LEARNING.
+
+## eine Prüfung bestehen
+- RU: сдать экзамен
+- Example: `Mein Ziel ist, die B1-Prüfung zu bestehen.`
+- Topics: Ausbildung
+- Introduced: 2026-09-08-2
+- Evidence: bestehen underlined: uncertain or looked up, independent recall untested. LEARNING.
 
 ## Da hast du recht.
 - RU: Тут ты прав.

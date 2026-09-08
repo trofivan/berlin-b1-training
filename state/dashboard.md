@@ -1,6 +1,6 @@
 # Dashboard
 
-**Status:** partial baseline continued on 2026-09-08; speaking-style production sampled in writing.
+**Status:** first handwritten email reviewed in 2026-09-08-2; all four content points covered. Underlined words are uncertain or possibly assisted, not secure independent recall.
 
 ## Exam readiness
 
@@ -8,9 +8,9 @@ To be established through the first several sessions. Do not assign confident sc
 
 ## Current priorities
 
-1. Complete baseline: Foto beschreiben, Lesen, handwritten Schreiben, and live speaking fluency.
+1. Complete baseline: Foto beschreiben, Lesen, and live speaking fluency; confirm Schreiben with another sample.
 2. Stabilize articles/cases in common planning chunks.
-3. Retrieve `obwohl` + main-clause inversion and `zu + infinitive` independently.
+3. Retrieve `wann` questions, `sich für … anmelden`, modal infinitive without `zu`, and longer `obwohl` sentences.
 4. Expand spontaneous situation-discussion language.
 
 ## Skills
@@ -20,16 +20,16 @@ To be established through the first several sessions. Do not assign confident sc
 | Kennenlernen | 3 | — | good detail; cases/endings need control |
 | Foto beschreiben | — | — | baseline needed |
 | Situation besprechen | 3 | — | can propose and react; needs more independent Redemittel |
-| Schreiben | — | — | handwritten baseline needed |
+| Schreiben | 3 | — | provisional first handwritten sample; complete content, clause errors, uncertain/assisted words |
 | Lesen | — | — | baseline needed |
 | Wortschatz | 3 | — | useful range; collocation precision varies |
-| Grammatik | 2 | ↑ | cases remain recurring; clause patterns improved in delayed retrieval |
+| Grammatik | 2 | — | short obwohl clauses improve; longer clauses, wann, cases and infinitives remain vulnerable |
 | Flüssigkeit | — | — | baseline needed |
 | Aufgabenverständnis | 3 | — | covered option, advantage, problem, and compromise with prompts |
 
 ## Topic matrix
 
-Only Berlin and planning-dialogue evidence is available so far.
+Berlin/planning dialogue plus one education-related handwritten email; no spoken-fluency measurement.
 
 | Topic | Erfahrung | Meinung | Pro/Contra | Foto | Dialog | Schreiben |
 |---|---|---|---|---|---|---|
@@ -43,5 +43,5 @@ Only Berlin and planning-dialogue evidence is available so far.
 | Reisen | — | — | — | — | — | — |
 | Internet | — | — | — | — | — | — |
 | Umwelt | — | — | — | — | — | — |
-| Ausbildung | — | — | — | — | — | — |
+| Ausbildung | — | — | — | — | — | 3 (provisional) |
 | Behörden | — | — | — | — | — | — |

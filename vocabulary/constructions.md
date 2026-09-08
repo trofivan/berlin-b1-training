@@ -6,11 +6,12 @@ Track grammatical / discourse patterns as productive skills.
 |---|---|---|
 | weil + Verb am Ende | unmeasured | |
 | dass + Verb am Ende | learning | Several successful uses on 2026-09-07; needs varied retrieval. |
-| obwohl + Verb am Ende | learning | Correctly retrieved with main-clause inversion on 2026-09-08, including final retry; needs varied contexts. |
+| obwohl + Verb am Ende | learning | Short clauses correct in 2026-09-08-2; longer handwritten clause failed. Not stable. |
 | deshalb + Verb position 2 | learning | Independently produced correctly in a planning discussion. |
 | trotzdem + Verb position 2 | unmeasured | |
 | einerseits ... andererseits ... | unmeasured | |
-| um ... zu / zu + Infinitiv | learning | Correctly retrieved after `eine gute Idee` on 2026-09-08; later added an incorrect `zu` after modal `können`. |
+| um ... zu / zu + Infinitiv | learning | 2026-09-08-2: missing zu after Mein Ziel ist; unnecessary zu after möchte. Correct on supported retry; um … zu unmeasured. |
+| indirekte Fragen mit wann | learning | 2026-09-08-2: repeated wenn substitution; final wann … anfängt correct after prompts. |
 | damit | unmeasured | |
 | würde / könnte / wäre | learning | Several correct productive uses of `würde`, `könnte`, and `sollten`. |
 | Meinung begründen | learning | Gave reasons and consequences with support. |

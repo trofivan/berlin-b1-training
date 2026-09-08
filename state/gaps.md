@@ -38,6 +38,29 @@ Partial baseline started 2026-09-07. Priorities require confirmation in later se
 - Status: new
 - First seen: 2026-09-08
 - Last seen: 2026-09-08
-- Evidence: `Ich kenne, dass ...` used for knowing a fact; corrected form was successfully repeated.
+- Evidence: `Ich kenne, dass ...` corrected earlier; session 2026-09-08-2 initial `Ich weiß dieses Kafe` failed. Contrast correct on retry; spelling `wißen` later corrected.
 - Correct pattern: `Ich weiß, dass ...`; `Ich kenne die Person / das Restaurant.`
 - Retrieval plan: contrast facts with people/places in a short productive drill.
+
+### Latest evidence: 2026-09-08-2
+
+- Articles/cases remain recurring: `dieses Schule`, `der Kurs … besuchen`, `mich erklären` instead of `mir sagen`.
+- Short obwohl clauses improve, but handwritten `Obwohl …, dass … ich habe` failed. Infinitives remain inconsistent: `möchte … zu besuchen`, missing zu in `Mein Ziel ist … bestehen`.
+
+### Indirect questions and wann/wenn
+
+- Category: conjunctions / word order / verb forms
+- Status: recurring
+- First seen / last seen: 2026-09-08-2
+- Evidence: repeated wenn for time questions; `anfangen ist`, `der Kurs beendet`. Final `Ich möchte wißen, wann der Kurs anfängt` structurally correct after prompts.
+- Correct pattern: `Könnten Sie mir sagen, wann der Kurs endet?`
+- Retrieval plan: delayed full sentence in a new context.
+
+### Course registration
+
+- Category: prepositions / reflexive verbs / cases
+- Status: recurring
+- First seen / last seen: 2026-09-08-2
+- Evidence: `an ihn anmelden`, omitted mich, then `mich auf dem Kurs anmelden` after a successful retry. Final `mich für den Abendkurs anmelden` correct with a targeted prompt.
+- Correct pattern: `sich für einen Kurs anmelden`
+- Retrieval plan: new course context without a model; no mastery claim.

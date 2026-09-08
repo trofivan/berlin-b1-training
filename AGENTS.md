@@ -345,6 +345,8 @@ When the handwritten photo arrives:
 
 Never mark an unseen handwritten assignment as completed.
 
+Underlined words or phrases in handwritten work mean the learner was unsure or looked up a translation. Treat them as uncertain/possibly assisted production, not independent vocabulary retrieval. Assess correct surrounding grammar separately. Do not assume which items were looked up versus merely uncertain; clarify only when useful. Log clearly visible marked items, flag ambiguous readings, and revisit selected chunks later without hints.
+
 ## Teacher integration
 
 The teacher is a native German speaker. Lessons should mostly stay in German.
@@ -429,7 +431,8 @@ The generated site at `https://deutsch.trofimov.link` is a read-only view of rep
 
 - Keep navigation, headings, buttons, status labels, and general UI copy in German (English is acceptable for source/session content).
 - Russian is allowed only where it helps the learner directly, such as translations, recall prompts, and brief grammar notes.
-- After every substantial training session, refresh `state/review.yaml` with 4–8 current retrieval cards based on real evidence and `next_retrieval`.
+- Keep `state/review.yaml` as a cumulative retrieval bank. After each substantial session, add or refine cards based on real evidence and `next_retrieval`; put 4–8 current priorities first, but retain earlier unmastered cards. There is no total limit of 4–8 cards. Do not replace or remove cards simply because a new session occurred, an answer was revealed, or an immediate retry succeeded.
+- Retire a card from routine review only with documented evidence of independent spontaneous production across multiple sessions and contexts, consistent with ACTIVE vocabulary criteria. Preserve mastered cards in an archive rather than deleting their history. Uncertain/underlined or looked-up words remain in review. Merge only genuine duplicates while preserving source/evidence; different contexts for the same construction can coexist.
 - Update `teacher/next_lesson.md` only when the learner requests a new teacher checkpoint; record the last included session.
 - Before any commit containing training-state or web changes, run the site build, open the local preview, and let the learner review it.
 - GitHub Pages deploys the generated site automatically from fresh `main`; do not commit `dist/`.
@@ -448,6 +451,8 @@ After making repository changes:
 Do not commit automatically, including after a completed training session.
 
 ## Session closing
+
+When the learner signals that a substantial session is finished, automatically log the session, update progress/gaps/vocabulary and review cards, then build and open the local web preview before sending the closing summary. Do not wait for a separate reminder to save results. If it is unclear whether the learner is stopping or pausing, ask briefly. Commit approval is still required under Git workflow; local updates do not require additional permission. Do not update the teacher checkpoint unless requested.
 
 At the end of a normal session briefly tell the learner:
 
