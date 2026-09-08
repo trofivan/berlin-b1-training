@@ -15,22 +15,22 @@ OUT = ROOT / "dist"
 SITE = ROOT / "site"
 
 NAV = [
-    ("review", "/", "Повторение"),
-    ("progress", "/progress/", "Прогресс"),
-    ("sessions", "/sessions/", "Сессии"),
-    ("teacher", "/teacher/", "Преподавателю"),
+    ("review", "/", "Wiederholen"),
+    ("progress", "/progress/", "Fortschritt"),
+    ("sessions", "/sessions/", "Sitzungen"),
+    ("teacher", "/teacher/", "Für die Lehrkraft"),
 ]
 
 SKILL_LABELS = {
-    "kennenlernen": "Знакомство",
-    "foto_beschreiben": "Описание фото",
-    "situation_besprechen": "Обсуждение ситуации",
-    "schreiben": "Письмо",
-    "lesen": "Чтение",
-    "wortschatz": "Словарный запас",
-    "grammatik": "Грамматика",
-    "fluessigkeit": "Беглость речи",
-    "aufgabenverstaendnis": "Понимание задания",
+    "kennenlernen": "Kennenlernen",
+    "foto_beschreiben": "Foto beschreiben",
+    "situation_besprechen": "Situation besprechen",
+    "schreiben": "Schreiben",
+    "lesen": "Lesen",
+    "wortschatz": "Wortschatz",
+    "grammatik": "Grammatik",
+    "fluessigkeit": "Flüssigkeit",
+    "aufgabenverstaendnis": "Aufgabenverständnis",
 }
 
 
@@ -60,9 +60,9 @@ def nav(active: str) -> str:
     return "".join(links)
 
 
-def page(title: str, active: str, body: str, description: str = "Тренировка немецкого B1") -> str:
+def page(title: str, active: str, body: str, description: str = "Training für den Berliner Sprachtest B1") -> str:
     return f"""<!doctype html>
-<html lang="ru">
+<html lang="de">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -73,13 +73,13 @@ def page(title: str, active: str, body: str, description: str = "Трениро�
 </head>
 <body>
   <header class="site-header">
-    <nav class="nav" aria-label="Основная навигация">
+    <nav class="nav" aria-label="Hauptnavigation">
       <a class="brand" href="/"><span class="brand-mark">B1</span><span>Deutsch Training</span></a>
       <div class="nav-links">{nav(active)}</div>
     </nav>
   </header>
   <main>{body}</main>
-  <footer class="footer">Berliner Sprachtest · Обновляется из учебного репозитория</footer>
+  <footer class="footer">Berliner Sprachtest · Aus dem Lernfortschritt erstellt</footer>
   <script src="/assets/app.js" defer></script>
 </body>
 </html>"""
@@ -109,17 +109,17 @@ def build_review(progress: dict, review: dict) -> None:
         <article class="review-card flip-card">
           <div class="flip-card-inner">
             <div class="flip-card-face flip-card-front">
-              <span class="card-number">КАРТОЧКА {index:02d} · ВОПРОС</span>
-              <p class="prompt">{esc(item['prompt'])}</p>
-              <button class="reveal" type="button" data-flip aria-pressed="false" aria-label="Показать ответ к карточке {index}">Показать ответ</button>
+              <span class="card-number">KARTE {index:02d} · FRAGE</span>
+              <p class="prompt" lang="ru">{esc(item['prompt'])}</p>
+              <button class="reveal" type="button" data-flip aria-pressed="false" aria-label="Antwort für Karte {index} anzeigen">Antwort anzeigen</button>
             </div>
             <div class="flip-card-face flip-card-back">
-              <span class="card-number">КАРТОЧКА {index:02d} · ОТВЕТ</span>
+              <span class="card-number">KARTE {index:02d} · ANTWORT</span>
               <div class="answer">
                 <p class="answer-de" lang="de">{esc(item['answer'])}</p>
-                <p class="answer-note">{esc(item.get('note', ''))}</p>
+                <p class="answer-note" lang="ru">{esc(item.get('note', ''))}</p>
               </div>
-              <button class="reveal" type="button" data-flip aria-pressed="false" aria-label="Вернуться к вопросу карточки {index}">Вернуться к вопросу</button>
+              <button class="reveal" type="button" data-flip aria-pressed="false" aria-label="Zur Frage von Karte {index}">Zurück zur Frage</button>
             </div>
           </div>
         </article>""")
@@ -128,18 +128,18 @@ def build_review(progress: dict, review: dict) -> None:
     body = f"""
     <section class="hero">
       <div>
-        <span class="eyebrow">3–5 минут перед занятием</span>
-        <h1>{esc(review.get('title', 'Повторение'))}</h1>
+        <span class="eyebrow">3–5 Minuten vor der Sitzung</span>
+        <h1>{esc(review.get('title', 'Wiederholen'))}</h1>
         <p>{esc(review.get('intro', ''))}</p>
       </div>
-      <div class="updated">Обновлено {display_date(review.get('updated', ''))}</div>
+      <div class="updated">Aktualisiert am {display_date(review.get('updated', ''))}</div>
     </section>
-    <section class="grid" aria-label="Карточки для повторения">{''.join(cards)}</section>
+    <section class="grid" aria-label="Karten zum Wiederholen">{''.join(cards)}</section>
     <section class="card panel" style="margin-top:18px">
-      <h2>Текущий фокус</h2>
+      <h2>Aktueller Fokus</h2>
       <ol class="priority-list">{priorities}</ol>
     </section>"""
-    write("", page("Повторение", "review", body))
+    write("", page("Wiederholen", "review", body))
 
 
 def build_progress(progress: dict, gaps_text: str) -> None:
@@ -158,13 +158,13 @@ def build_progress(progress: dict, gaps_text: str) -> None:
         </div>""")
     priorities = "".join(f"<li>{esc(item)}</li>" for item in progress.get("current_priorities", []))
     body = f"""
-    <div class="section-head"><div><span class="eyebrow">Текущий снимок</span><h1>Прогресс</h1></div><p>Обновлено {display_date(progress.get('updated', ''))}</p></div>
+    <div class="section-head"><div><span class="eyebrow">Aktueller Stand</span><h1>Fortschritt</h1></div><p>Aktualisiert am {display_date(progress.get('updated', ''))}</p></div>
     <div class="content-grid">
-      <section class="card panel"><h2>Навыки</h2><div class="skill-list">{''.join(rows)}</div></section>
-      <section class="card panel"><h2>Ближайшие приоритеты</h2><ol class="priority-list">{priorities}</ol></section>
+      <section class="card panel"><h2>Fertigkeiten</h2><div class="skill-list">{''.join(rows)}</div></section>
+      <section class="card panel"><h2>Nächste Prioritäten</h2><ol class="priority-list">{priorities}</ol></section>
     </div>
-    <section class="card panel prose"><h2>Активные трудности</h2>{md(gaps_text.replace('# Current Gaps', '', 1))}</section>"""
-    write("progress", page("Прогресс", "progress", body))
+    <section class="card panel prose"><h2>Aktuelle Schwierigkeiten</h2>{md(gaps_text.replace('# Current Gaps', '', 1))}</section>"""
+    write("progress", page("Fortschritt", "progress", body))
 
 
 def session_data(path: Path) -> dict:
@@ -182,25 +182,25 @@ def build_sessions() -> None:
         cards.append(f"""
         <a class="card session-link" href="/sessions/{esc(item['slug'])}/">
           <span class="session-meta">{label} · {esc(item['time'])}</span>
-          <h2>{esc(item['goal'] or 'Учебная сессия')}</h2>
-          <p>Открыть задания, результаты и цели повторения →</p>
+          <h2>{esc(item['goal'] or 'Trainingseinheit')}</h2>
+          <p>Aufgaben, Ergebnisse und Wiederholungsziele öffnen →</p>
         </a>""")
         body = f'<article class="card panel prose">{md(item["text"])}</article>'
-        write(f"sessions/{item['slug']}", page(f"Сессия {label}", "sessions", body))
+        write(f"sessions/{item['slug']}", page(f"Sitzung {label}", "sessions", body))
     body = f"""
-    <div class="section-head"><div><span class="eyebrow">История занятий</span><h1>Сессии</h1></div><p>{len(sessions)} сохранено</p></div>
+    <div class="section-head"><div><span class="eyebrow">Trainingsverlauf</span><h1>Sitzungen</h1></div><p>{len(sessions)} gespeichert</p></div>
     <div class="session-list">{''.join(cards)}</div>"""
-    write("sessions", page("Сессии", "sessions", body))
+    write("sessions", page("Sitzungen", "sessions", body))
 
 
 def build_teacher(text: str) -> None:
     checkpoint = re.search(r"\*\*Berücksichtigt bis:\*\*\s*(.+)", text)
-    checkpoint_text = checkpoint.group(1) if checkpoint else "Контрольная точка не указана"
+    checkpoint_text = checkpoint.group(1) if checkpoint else "Kein Stand angegeben"
     body = f"""
-    <div class="section-head"><div><span class="eyebrow">Информация к уроку</span><h1>Сводка преподавателю</h1></div></div>
-    <div class="teacher-banner"><strong>Контрольная точка</strong><span>{esc(checkpoint_text)}</span></div>
+    <div class="section-head"><div><span class="eyebrow">Informationen vor dem Unterricht</span><h1>Übersicht für die Lehrkraft</h1></div></div>
+    <div class="teacher-banner"><strong>Berücksichtigter Stand</strong><span>{esc(checkpoint_text)}</span></div>
     <article class="card panel prose">{md(text)}</article>"""
-    write("teacher", page("Преподавателю", "teacher", body, "Актуальная сводка для преподавателя немецкого"))
+    write("teacher", page("Für die Lehrkraft", "teacher", body, "Aktuelle Übersicht für die Deutschlehrkraft"))
 
 
 def main() -> None:

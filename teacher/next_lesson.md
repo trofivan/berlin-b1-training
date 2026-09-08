@@ -6,7 +6,7 @@
 
 ## Kurzkontext
 
-Ivan hat zwei kurze schriftliche Sprechsimulationen gemacht: eine persönliche Vorstellung über sein Leben in Berlin und zwei Planungsgespräche (Nachbarschaftspicknick und Abschiedsabend für eine Kollegin). Schreiben, Lesen, Fotobeschreibung und mündliche Flüssigkeit wurden noch nicht bewertet.
+Ivan hat in zwei kurzen Trainingseinheiten eine persönliche Vorstellung über sein Leben in Berlin und zwei Planungsgespräche bearbeitet (Nachbarschaftspicknick und Abschiedsabend für eine Kollegin). Die Aufgaben wurden schriftlich im Stil einer Sprechsimulation beantwortet. Schreiben, Lesen, Fotobeschreibung und mündliche Flüssigkeit wurden noch nicht bewertet.
 
 ## Aktuelle Stärken
 

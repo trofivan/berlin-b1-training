@@ -98,7 +98,7 @@ When learner asks to prepare for the teacher:
 - review evidence since previous teacher brief;
 - update `teacher/next_lesson.md`;
 - make it directly usable by a native German teacher;
-- focus on dialogue and spontaneous follow-up.
+- provide a concise informational checkpoint, not exercises or a lesson plan, unless explicitly requested.
 
 ### TEACHER_FEEDBACK
 When learner reports what happened in a lesson:
@@ -423,14 +423,27 @@ Keep statuses clean and avoid duplicates.
 
 After updates, make sure these files do not contradict each other.
 
+## Web dashboard maintenance
+
+The generated site at `https://deutsch.trofimov.link` is a read-only view of repository data.
+
+- Keep navigation, headings, buttons, status labels, and general UI copy in German (English is acceptable for source/session content).
+- Russian is allowed only where it helps the learner directly, such as translations, recall prompts, and brief grammar notes.
+- After every substantial training session, refresh `state/review.yaml` with 4–8 current retrieval cards based on real evidence and `next_retrieval`.
+- Update `teacher/next_lesson.md` only when the learner requests a new teacher checkpoint; record the last included session.
+- Before any commit containing training-state or web changes, run the site build, open the local preview, and let the learner review it.
+- GitHub Pages deploys the generated site automatically from fresh `main`; do not commit `dist/`.
+
 ## Git workflow
 
 After making repository changes:
 
-1. inspect and verify the changes;
-2. give the learner a concise summary and offer the full diff for review;
-3. wait for the learner's explicit approval to commit;
-4. create the commit only after that approval.
+1. refresh the web-facing review data when training state changed;
+2. build and locally preview the web dashboard;
+3. inspect and verify the changes;
+4. give the learner a concise summary and offer the full diff for review;
+5. wait for the learner's explicit approval to commit;
+6. create the commit only after that approval.
 
 Do not commit automatically, including after a completed training session.
 

@@ -77,7 +77,7 @@ Codex updates:
 
 `teacher/next_lesson.md`
 
-It should be usable directly by a native German teacher and should prioritize dialogue, spontaneous follow-up questions, role play, and the learner's actual recent gaps.
+It is a concise German-language checkpoint: recent work, strengths, recurring errors, real examples, and current areas of attention. It does not contain exercises or a lesson plan unless explicitly requested.
 
 After a lesson, tell Codex what happened and any teacher feedback. It should integrate that evidence into the state.
 
@@ -115,7 +115,7 @@ Git history provides a long-term record of changes.
 
 ## Web dashboard
 
-The static dashboard is generated directly from the repository state, session logs, vocabulary, and teacher summary.
+The static dashboard is generated directly from the repository state, session logs, vocabulary, and teacher summary. General interface copy is German; Russian is limited to learner-facing translations and recall prompts.
 
 Local preview:
 
@@ -125,3 +125,5 @@ make preview
 ```
 
 Open `http://localhost:8000`. A GitHub Actions workflow rebuilds and deploys the site to GitHub Pages after every push to `main`.
+
+After a substantial training session, update `state/review.yaml`, rebuild the dashboard, and review the local page before committing. Update `teacher/next_lesson.md` only when a new teacher checkpoint is requested.
