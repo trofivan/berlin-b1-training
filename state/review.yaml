@@ -1,53 +1,70 @@
 version: 1
-updated: 2026-09-08
-title: "Vor der nächsten Session"
-intro: "Die ersten sechs Karten sind der aktuelle Fokus. Frühere Karten bleiben zum Wiederholen erhalten. Wähle pro Runde 4–6 Karten und sprich die deutsche Version laut aus, bevor du die Antwort öffnest."
+updated: '2026-09-09'
+title: Vor der nächsten Session
+intro: Die ersten sechs Karten sind der aktuelle Fokus. Frühere Karten bleiben zum Wiederholen erhalten. Wähle pro Runde 4–6
+  Karten und sprich die deutsche Version laut aus, bevor du die Antwort öffnest.
 items:
-  - prompt: "Я хочу записаться на курс плавания."
-    answer: "Ich möchte mich für den Schwimmkurs anmelden."
-    note: "sich für + Akkusativ anmelden; после möchte без zu"
-    source: "2026-09-08-2"
-  - prompt: "Не могли бы Вы сказать мне, когда заканчивается курс?"
-    answer: "Könnten Sie mir sagen, wann der Kurs endet?"
-    note: "кому? mir; вопрос о времени: wann; глагол в конце"
-    source: "2026-09-08-2"
-  - prompt: "Хотя я много работаю, я хотел бы посещать курс."
-    answer: "Obwohl ich viel arbeite, möchte ich den Kurs besuchen."
-    note: "viel arbeiten; den Kurs; möchte без zu"
-    source: "2026-09-08-2"
-  - prompt: "Моя цель — сдать экзамен в октябре."
-    answer: "Mein Ziel ist, im Oktober die Prüfung zu bestehen."
-    note: "bestehen было подчёркнуто — проверяем без подсказки"
-    source: "2026-09-08-2"
-  - prompt: "Я знаю эту школу и знаю, что она предлагает вечерние курсы."
-    answer: "Ich kenne diese Schule und weiß, dass sie Abendkurse anbietet."
-    note: "kennen — место; wissen — факт; diese Schule; anbietet в конце"
-    source: "2026-09-08-2"
-  - prompt: "Не могли бы Вы найти для меня подходящий курс?"
-    answer: "Könnten Sie einen passenden Kurs für mich finden?"
-    note: "passenden было подчёркнуто — уверенное извлечение ещё не подтверждено"
-    source: "2026-09-08-2"
-  - prompt: "Что ты думаешь об этой идее?"
-    answer: "Was hältst du davon?"
-    note: "hältst — с ä и t"
-    source: "2026-09-07"
-  - prompt: "Я считаю эту идею хорошей."
-    answer: "Ich halte diese Idee für gut."
-    note: "Альтернатива: Ich finde diese Idee gut."
-    source: "2026-09-08"
-  - prompt: "Я знаю, что не все коллеги свободны в пятницу."
-    answer: "Ich weiß, dass nicht alle Kollegen am Freitag frei sind."
-    note: "wissen — факт; kennen — человек, место или предмет"
-    source: "2026-09-08"
-  - prompt: "Хотя ресторан дорогой, мы хотели бы пойти туда."
-    answer: "Obwohl das Restaurant teuer ist, möchten wir dorthin gehen."
-    note: "После придаточного главное предложение начинается с глагола."
-    source: "2026-09-08"
-  - prompt: "После этого мы можем забронировать столик на нужное количество человек."
-    answer: "Danach können wir einen Tisch für die richtige Anzahl an Personen reservieren."
-    note: "После können инфинитив без zu."
-    source: "2026-09-08"
-  - prompt: "Если пойдёт дождь, мы можем установить павильон."
-    answer: "Wenn es regnet, können wir den Pavillon aufstellen."
-    note: "einen Pavillon aufstellen — установить павильон"
-    source: "2026-09-07"
+- prompt: Я хочу записаться на курс плавания.
+  answer: Ich möchte mich für den Schwimmkurs anmelden.
+  note: sich für + Akkusativ anmelden; после möchte без zu; 09.09 сначала ошибка, затем повтор с поддержкой
+  source: 2026-09-08-2; 2026-09-09
+- prompt: Не могли бы Вы сказать мне, когда заканчивается курс?
+  answer: Könnten Sie mir sagen, wann der Kurs endet?
+  note: 'кому? mir; вопрос о времени: wann; глагол в конце'
+  source: 2026-09-08-2; 2026-09-09
+- prompt: Тебе подходит вторник вечером?
+  answer: Passt dir Dienstagabend auch?
+  note: passen — подходить; dir без für
+  source: '2026-09-09'
+- prompt: Я могу подвезти тебя на машине.
+  answer: Ich kann dich mit dem Auto mitnehmen.
+  note: mit dem Auto; mitnehmen; после kann без zu
+  source: '2026-09-09'
+- prompt: Можно ли мне там припарковать машину?
+  answer: Kann ich dort mein Auto parken?
+  note: 'Возможность: kann ich; Gibt es — есть ли'
+  source: '2026-09-09'
+- prompt: Но у меня есть машина. Поездка займёт не больше 20 минут.
+  answer: Aber ich habe ein Auto. Die Fahrt dauert höchstens 20 Minuten.
+  note: После aber обычный порядок слов; ein Auto
+  source: '2026-09-09'
+- prompt: Хотя я много работаю, я хотел бы посещать курс.
+  answer: Obwohl ich viel arbeite, möchte ich den Kurs besuchen.
+  note: viel arbeiten; den Kurs; möchte без zu
+  source: 2026-09-08-2
+- prompt: Моя цель — сдать экзамен в октябре.
+  answer: Mein Ziel ist, im Oktober die Prüfung zu bestehen.
+  note: bestehen было подчёркнуто — проверяем без подсказки
+  source: 2026-09-08-2
+- prompt: Я знаю эту школу и знаю, что она предлагает вечерние курсы.
+  answer: Ich kenne diese Schule und weiß, dass sie Abendkurse anbietet.
+  note: kennen — место; wissen — факт; diese Schule; anbietet в конце
+  source: 2026-09-08-2
+- prompt: Не могли бы Вы найти для меня подходящий курс?
+  answer: Könnten Sie einen passenden Kurs für mich finden?
+  note: passenden было подчёркнуто — уверенное извлечение ещё не подтверждено
+  source: 2026-09-08-2
+- prompt: Что ты думаешь об этой идее?
+  answer: Was hältst du davon?
+  note: hältst — с ä и t
+  source: '2026-09-07'
+- prompt: Я считаю эту идею хорошей.
+  answer: Ich halte diese Idee für gut.
+  note: 'Альтернатива: Ich finde diese Idee gut.'
+  source: '2026-09-08'
+- prompt: Я знаю, что не все коллеги свободны в пятницу.
+  answer: Ich weiß, dass nicht alle Kollegen am Freitag frei sind.
+  note: wissen — факт; kennen — человек, место или предмет
+  source: '2026-09-08'
+- prompt: Хотя ресторан дорогой, мы хотели бы пойти туда.
+  answer: Obwohl das Restaurant teuer ist, möchten wir dorthin gehen.
+  note: После придаточного главное предложение начинается с глагола.
+  source: '2026-09-08'
+- prompt: После этого мы можем забронировать столик на нужное количество человек.
+  answer: Danach können wir einen Tisch für die richtige Anzahl an Personen reservieren.
+  note: После können инфинитив без zu.
+  source: '2026-09-08'
+- prompt: Если пойдёт дождь, мы можем установить павильон.
+  answer: Wenn es regnet, können wir den Pavillon aufstellen.
+  note: einen Pavillon aufstellen — установить павильон
+  source: '2026-09-07'

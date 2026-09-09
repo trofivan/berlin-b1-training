@@ -64,3 +64,11 @@ Partial baseline started 2026-09-07. Priorities require confirmation in later se
 - Evidence: `an ihn anmelden`, omitted mich, then `mich auf dem Kurs anmelden` after a successful retry. Final `mich für den Abendkurs anmelden` correct with a targeted prompt.
 - Correct pattern: `sich für einen Kurs anmelden`
 - Retrieval plan: new course context without a model; no mastery claim.
+
+### Latest evidence: 2026-09-09
+
+- Short obwohl and deshalb inversion correct independently; initial indirect time question also had the final verb. Same-session final wann question correct; no stable status yet.
+- Registration remains recurring: initial `an dem Schwimmkurs anmelden` omitted mich; corrected retry succeeded. Final `mich zum Fotokurs anmelden` valid, but zum was in the prompt and does not test für recall.
+- Cases/prepositions remain recurring: `dieser Tag`, `einen Auto`, `bei Strassenbahn`, `beim Auto` → `diesen Tag`, `ein Auto`, `mit der Straßenbahn / mit dem Auto`.
+- Main-clause order: `Aber habe ich` → `Aber ich habe`; abholen retry still needed correction.
+- New practical phrasing targets: `Passt dir dieser Termin?`, `jemanden mitnehmen`, `Kann ich dort parken?`. Parking question failed twice with es gibt before a supported success. Revisit without hints.

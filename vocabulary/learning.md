@@ -73,3 +73,22 @@ Suggested entry format:
 - Topics: etwas organisieren, Wetter
 - Introduced: 2026-09-07
 - Evidence: introduced after `ertragen` was used; independent retrieval not yet tested
+
+## Passt dir dieser Termin?
+- RU: Тебе подходит это время / эта дата?
+- Example: `Passt dir Dienstagabend auch?`
+- Topics: Termine, etwas organisieren
+- Introduced: 2026-09-09
+- Evidence: initial passen/passieren confusion; correct on immediate retry. LEARNING.
+
+## jemanden mit dem Auto mitnehmen
+- RU: подвезти кого-либо / взять с собой на машине
+- Example: `Ich kann dich mit dem Auto mitnehmen.`
+- Topics: Verkehr, etwas organisieren
+- Introduced: 2026-09-09
+- Evidence: initial `beim Auto mitbringen`; model supplied, independent retrieval pending. `mit dem Auto` correct in a subsequent supported sentence. LEARNING.
+
+## Session evidence 2026-09-09
+- `sich für einen Kurs anmelden`: initial delayed failure; immediate corrected retry. Final valid `mich zum Fotokurs anmelden` followed a prompt using zum; für retrieval still pending.
+- `Könnten Sie mir sagen, wann …?`: initial final-verb placement correct; mir bitte corrected. Final wann question correct within session. Still LEARNING.
+- `bevorzugen` was explicitly translated; do not count as independent vocabulary. `höchstens 20 Minuten` reproduced after a model, delayed recall pending.

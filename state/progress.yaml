@@ -1,16 +1,15 @@
 version: 1
-updated: 2026-09-08
-
+updated: '2026-09-09'
 exam_readiness:
   overall: null
-  note: "Partial baseline includes first handwritten email (2026-09-08-2). Underlined items uncertain or possibly looked up. No Lesen, photo, or spoken-fluency evidence yet."
-
+  note: Partial baseline includes first handwritten email (2026-09-08-2). Underlined items uncertain or possibly looked up.
+    No Lesen, photo, or spoken-fluency evidence yet.
 skills:
   kennenlernen:
     score: 3
     trend: unknown
     evidence:
-      - "2026-09-07: Substantial personal introduction with reasons, opinions, and Berlin detail; recurring case/ending errors."
+    - '2026-09-07: Substantial personal introduction with reasons, opinions, and Berlin detail; recurring case/ending errors.'
   foto_beschreiben:
     score: null
     trend: unknown
@@ -19,13 +18,17 @@ skills:
     score: 3
     trend: unknown
     evidence:
-      - "2026-09-07: Discussed a neighbours' picnic, reacted to an objection, proposed Tempelhofer Feld and a rain solution."
-      - "2026-09-08: Planned a colleague's farewell dinner; could react, identify availability/food constraints, and propose coordination after correction."
+    - '2026-09-07: Discussed a neighbours'' picnic, reacted to an objection, proposed Tempelhofer Feld and a rain solution.'
+    - '2026-09-08: Planned a colleague''s farewell dinner; could react, identify availability/food constraints, and propose
+      coordination after correction.'
+    - '2026-09-09: Typed course-planning dialogue: chose a date and proposed car transport; transport and availability phrasing
+      needed correction. No spoken-fluency evidence.'
   schreiben:
     score: 3
     trend: unknown
     evidence:
-      - "2026-09-08-2: First handwritten email covers all four points; approximately 140 words vs requested 70–90. Clause/case errors and uncertain or assisted underlined words. Provisional baseline."
+    - '2026-09-08-2: First handwritten email covers all four points; approximately 140 words vs requested 70–90. Clause/case
+      errors and uncertain or assisted underlined words. Provisional baseline.'
   lesen:
     score: null
     trend: unknown
@@ -34,14 +37,21 @@ skills:
     score: 3
     trend: unknown
     evidence:
-      - "2026-09-07: Useful planning language; needed support for sich kennenlernen, einen Pavillon aufstellen, and einen Aushang aufhängen."
+    - '2026-09-07: Useful planning language; needed support for sich kennenlernen, einen Pavillon aufstellen, and einen Aushang
+      aufhängen.'
   grammatik:
     score: 2
     trend: unknown
     evidence:
-      - "2026-09-07: Productive dass/deshalb/obwohl and Konjunktiv II, but recurring article/case errors, missed zu + infinitive, and inversion issue after obwohl."
-      - "2026-09-08: Retrieved obwohl inversion and zu + infinitive correctly after one day; articles/endings remained recurring, and modal infinitive briefly attracted an incorrect zu."
-      - "2026-09-08-2: Short obwohl clauses often correct, longer handwritten clause failed. Repeated wann/wenn, registration-preposition and modal-zu errors; final retries correct with support."
+    - '2026-09-07: Productive dass/deshalb/obwohl and Konjunktiv II, but recurring article/case errors, missed zu + infinitive,
+      and inversion issue after obwohl.'
+    - '2026-09-08: Retrieved obwohl inversion and zu + infinitive correctly after one day; articles/endings remained recurring,
+      and modal infinitive briefly attracted an incorrect zu.'
+    - '2026-09-08-2: Short obwohl clauses often correct, longer handwritten clause failed. Repeated wann/wenn, registration-preposition
+      and modal-zu errors; final retries correct with support.'
+    - '2026-09-09: Independent obwohl/deshalb inversion and indirect-question final verb correct. Registration failed delayed
+      recall; transport prepositions, cases and aber word order needed help. Final wann and reflexive registration correct
+      within session; no mastery claim.'
   fluessigkeit:
     score: null
     trend: unknown
@@ -50,26 +60,22 @@ skills:
     score: 3
     trend: unknown
     evidence:
-      - "2026-09-07: Addressed options, advantages, a problem, and a compromise after prompting."
-
+    - '2026-09-07: Addressed options, advantages, a problem, and a compromise after prompting.'
 topics:
   berlin_grossstadt:
     personal_experience: 3
     opinion: 3
     advantages_disadvantages: 3
     dialogue: 3
-    note: "Initial evidence only; production was typed, not spoken."
-
+    note: Initial evidence only; production was typed, not spoken.
 current_priorities:
-  - "Complete baseline with Foto beschreiben, Lesen, and spoken fluency; confirm Schreiben with another sample."
-  - "Stabilize articles/cases in high-frequency planning phrases."
-  - "Retrieve obwohl + main-clause inversion and zu + infinitive."
-  - "Build spontaneous situation-discussion Redemittel."
-
+- Complete baseline with Foto beschreiben, Lesen, and spoken fluency; confirm Schreiben with another sample.
+- Stabilize articles/cases in high-frequency planning phrases.
+- Retrieve obwohl + main-clause inversion and zu + infinitive.
+- Build spontaneous situation-discussion Redemittel.
 next_retrieval:
-  - "sich für einen Kurs anmelden in a new context"
-  - "Könnten Sie mir sagen, wann … anfängt/endet?"
-  - "möchte + infinitive without zu vs Mein Ziel ist, … zu …"
-  - "kennen/wissen with correct noun gender"
-  - "obwohl in longer messages"
-  - "Underlined chunks: eine Prüfung bestehen, einen passenden Kurs; independent recall pending"
+- 'Course registration after a delay: reflexive and für + Akkusativ'
+- Indirect wann question without a model
+- 'Offer a lift: mit dem Auto fahren / jemanden mitnehmen'
+- Passt dir dieser Termin? and Kann ich dort parken?
+- 'Earlier pending: exam goal with zu bestehen, kennen/wissen, uncertain passenden Kurs'

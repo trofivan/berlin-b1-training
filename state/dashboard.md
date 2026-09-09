@@ -1,6 +1,6 @@
 # Dashboard
 
-**Status:** first handwritten email reviewed in 2026-09-08-2; all four content points covered. Underlined words are uncertain or possibly assisted, not secure independent recall.
+**Status:** 2026-09-09: short course-planning dialogue completed. Independent obwohl/deshalb word order and indirect-question final verb correct; registration, transport phrasing and cases still need retrieval. Scores unchanged; no spoken-fluency measurement.
 
 ## Exam readiness
 
@@ -11,7 +11,7 @@ To be established through the first several sessions. Do not assign confident sc
 1. Complete baseline: Foto beschreiben, Lesen, and live speaking fluency; confirm Schreiben with another sample.
 2. Stabilize articles/cases in common planning chunks.
 3. Retrieve `wann` questions, `sich für … anmelden`, modal infinitive without `zu`, and longer `obwohl` sentences.
-4. Expand spontaneous situation-discussion language.
+4. Retrieve transport offers, availability and parking questions without models.
 
 ## Skills
 
