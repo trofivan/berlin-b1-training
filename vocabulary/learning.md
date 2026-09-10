@@ -92,3 +92,11 @@ Suggested entry format:
 - `sich für einen Kurs anmelden`: initial delayed failure; immediate corrected retry. Final valid `mich zum Fotokurs anmelden` followed a prompt using zum; für retrieval still pending.
 - `Könnten Sie mir sagen, wann …?`: initial final-verb placement correct; mir bitte corrected. Final wann question correct within session. Still LEARNING.
 - `bevorzugen` was explicitly translated; do not count as independent vocabulary. `höchstens 20 Minuten` reproduced after a model, delayed recall pending.
+
+## Session evidence 2026-09-10
+- `sich für einen Kurs anmelden`: independently correct after a day in Yogakurs context; remains LEARNING.
+- `Passt dir diese Zeit?`: dir without für improved with practice, but final `dieses Zeit` repeated; delayed recall still needed.
+- Transport: `mit dem Auto zum Bahnhof/Flughafen fahren` correct only after corrections; earlier same-session recall reverted to `beim Auto nach Bahnhof`.
+- `wissen / wann`: initial indirect wann question correct; later `kennen, wenn` relapse.
+- `Ich würde Ihnen gerne helfen`: correct after targeted correction, not spontaneous mastery.
+- `dich/mich abholen`: final polite request with mich correct after role change; earlier dir error. All remain LEARNING.

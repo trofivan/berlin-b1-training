@@ -1,13 +1,31 @@
 version: 1
-updated: '2026-09-09'
+updated: '2026-09-10'
 title: Vor der nächsten Session
-intro: Die ersten sechs Karten sind der aktuelle Fokus. Frühere Karten bleiben zum Wiederholen erhalten. Wähle pro Runde 4–6
-  Karten und sprich die deutsche Version laut aus, bevor du die Antwort öffnest.
+intro: Die ersten sechs Karten sind der aktuelle Fokus. Frühere Karten bleiben zum
+  Wiederholen erhalten. Wähle pro Runde 4–6 Karten und sprich die deutsche Version
+  laut aus, bevor du die Antwort öffnest.
 items:
+- prompt: Я могу отвезти тебя на машине до вокзала.
+  answer: Ich kann dich mit dem Auto zum Bahnhof fahren.
+  note: mit dem Auto; zum Bahnhof; после kann без zu
+  source: '2026-09-10'
+- prompt: Не могла бы ты забрать меня в воскресенье в 10 утра?
+  answer: Könntest du mich bitte am Sonntag um 10 Uhr morgens abholen?
+  note: 'abholen + Akkusativ: mich/dich; morgens — утром'
+  source: '2026-09-10'
+- prompt: Тебе подходит это время?
+  answer: Passt dir diese Zeit?
+  note: passen + Dativ без für; die Zeit → diese Zeit; ошибка повторилась в конце
+  source: '2026-09-10'
+- prompt: Я хотел бы узнать, когда состоится следующая встреча соседей.
+  answer: Ich möchte wissen, wann der nächste Nachbarschaftstreff stattfindet.
+  note: wissen, не kennen; wann, не wenn; глагол в конце
+  source: '2026-09-10'
 - prompt: Я хочу записаться на курс плавания.
   answer: Ich möchte mich für den Schwimmkurs anmelden.
-  note: sich für + Akkusativ anmelden; после möchte без zu; 09.09 сначала ошибка, затем повтор с поддержкой
-  source: 2026-09-08-2; 2026-09-09
+  note: sich für + Akkusativ anmelden; после möchte без zu; 09.09 сначала ошибка,
+    затем повтор с поддержкой; 10.09 самостоятельно верно для Yogakurs, ещё не ACTIVE
+  source: 2026-09-08-2; 2026-09-09; 2026-09-10
 - prompt: Не могли бы Вы сказать мне, когда заканчивается курс?
   answer: Könnten Sie mir sagen, wann der Kurs endet?
   note: 'кому? mir; вопрос о времени: wann; глагол в конце'

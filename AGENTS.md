@@ -127,6 +127,8 @@ Evaluate only after the relevant part ends.
 
 Treat time as approximate. Never pad a session just to fill the clock.
 
+Record the start time and check elapsed time before adding another task or retry block. Reserve the last few minutes for recall and closing; do not extend the session through repeated retries unless the learner requests it. In session logs, distinguish requested duration from actual elapsed time, cite start/end timestamps when available, and exclude subsequent repository maintenance. Never report the requested time as measured duration.
+
 A good default:
 
 1. **Retrieval warm-up (5–10 min)**

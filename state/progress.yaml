@@ -1,15 +1,17 @@
 version: 1
-updated: '2026-09-09'
+updated: '2026-09-10'
 exam_readiness:
   overall: null
-  note: Partial baseline includes first handwritten email (2026-09-08-2). Underlined items uncertain or possibly looked up.
-    No Lesen, photo, or spoken-fluency evidence yet.
+  note: Partial baseline includes first handwritten email (2026-09-08-2). Underlined
+    items uncertain or possibly looked up. No Lesen, photo, or spoken-fluency evidence
+    yet.
 skills:
   kennenlernen:
     score: 3
     trend: unknown
     evidence:
-    - '2026-09-07: Substantial personal introduction with reasons, opinions, and Berlin detail; recurring case/ending errors.'
+    - '2026-09-07: Substantial personal introduction with reasons, opinions, and Berlin
+      detail; recurring case/ending errors.'
   foto_beschreiben:
     score: null
     trend: unknown
@@ -18,40 +20,55 @@ skills:
     score: 3
     trend: unknown
     evidence:
-    - '2026-09-07: Discussed a neighbours'' picnic, reacted to an objection, proposed Tempelhofer Feld and a rain solution.'
-    - '2026-09-08: Planned a colleague''s farewell dinner; could react, identify availability/food constraints, and propose
-      coordination after correction.'
-    - '2026-09-09: Typed course-planning dialogue: chose a date and proposed car transport; transport and availability phrasing
-      needed correction. No spoken-fluency evidence.'
+    - '2026-09-07: Discussed a neighbours'' picnic, reacted to an objection, proposed
+      Tempelhofer Feld and a rain solution.'
+    - '2026-09-08: Planned a colleague''s farewell dinner; could react, identify availability/food
+      constraints, and propose coordination after correction.'
+    - '2026-09-09: Typed course-planning dialogue: chose a date and proposed car transport;
+      transport and availability phrasing needed correction. No spoken-fluency evidence.'
+    - '2026-09-10: Typed station-lift dialogue: proposed supermarket parking, explained
+      free period and offered help with luggage. Case, preposition and collocation
+      support needed; no spoken fluency measurement.'
   schreiben:
     score: 3
     trend: unknown
     evidence:
-    - '2026-09-08-2: First handwritten email covers all four points; approximately 140 words vs requested 70–90. Clause/case
-      errors and uncertain or assisted underlined words. Provisional baseline.'
+    - '2026-09-08-2: First handwritten email covers all four points; approximately
+      140 words vs requested 70–90. Clause/case errors and uncertain or assisted underlined
+      words. Provisional baseline.'
   lesen:
     score: null
     trend: unknown
-    evidence: []
+    evidence:
+    - '2026-09-10: First short notice: 3/3 richtig/falsch correct; last justification
+      incomplete (closure does not exclude park meeting). Cancellation restated using
+      visible text. Too little evidence for score.'
   wortschatz:
     score: 3
     trend: unknown
     evidence:
-    - '2026-09-07: Useful planning language; needed support for sich kennenlernen, einen Pavillon aufstellen, and einen Aushang
-      aufhängen.'
+    - '2026-09-07: Useful planning language; needed support for sich kennenlernen,
+      einen Pavillon aufstellen, and einen Aushang aufhängen.'
   grammatik:
     score: 2
     trend: unknown
     evidence:
-    - '2026-09-07: Productive dass/deshalb/obwohl and Konjunktiv II, but recurring article/case errors, missed zu + infinitive,
-      and inversion issue after obwohl.'
-    - '2026-09-08: Retrieved obwohl inversion and zu + infinitive correctly after one day; articles/endings remained recurring,
-      and modal infinitive briefly attracted an incorrect zu.'
-    - '2026-09-08-2: Short obwohl clauses often correct, longer handwritten clause failed. Repeated wann/wenn, registration-preposition
-      and modal-zu errors; final retries correct with support.'
-    - '2026-09-09: Independent obwohl/deshalb inversion and indirect-question final verb correct. Registration failed delayed
-      recall; transport prepositions, cases and aber word order needed help. Final wann and reflexive registration correct
+    - '2026-09-07: Productive dass/deshalb/obwohl and Konjunktiv II, but recurring
+      article/case errors, missed zu + infinitive, and inversion issue after obwohl.'
+    - '2026-09-08: Retrieved obwohl inversion and zu + infinitive correctly after
+      one day; articles/endings remained recurring, and modal infinitive briefly attracted
+      an incorrect zu.'
+    - '2026-09-08-2: Short obwohl clauses often correct, longer handwritten clause
+      failed. Repeated wann/wenn, registration-preposition and modal-zu errors; final
+      retries correct with support.'
+    - '2026-09-09: Independent obwohl/deshalb inversion and indirect-question final
+      verb correct. Registration failed delayed recall; transport prepositions, cases
+      and aber word order needed help. Final wann and reflexive registration correct
       within session; no mastery claim.'
+    - '2026-09-10: Registration independently correct after delay; wann/wissen, modal
+      infinitive, transport prepositions and passen cases relapsed later. Final polite
+      request correctly used Könntest du mich ... abholen; diese Zeit still failed.
+      Supported retries are not mastery.'
   fluessigkeit:
     score: null
     trend: unknown
@@ -60,7 +77,8 @@ skills:
     score: 3
     trend: unknown
     evidence:
-    - '2026-09-07: Addressed options, advantages, a problem, and a compromise after prompting.'
+    - '2026-09-07: Addressed options, advantages, a problem, and a compromise after
+      prompting.'
 topics:
   berlin_grossstadt:
     personal_experience: 3
@@ -69,13 +87,14 @@ topics:
     dialogue: 3
     note: Initial evidence only; production was typed, not spoken.
 current_priorities:
-- Complete baseline with Foto beschreiben, Lesen, and spoken fluency; confirm Schreiben with another sample.
+- Complete baseline with Foto beschreiben, Lesen, and spoken fluency; confirm Schreiben
+  with another sample.
 - Stabilize articles/cases in high-frequency planning phrases.
 - Retrieve obwohl + main-clause inversion and zu + infinitive.
 - Build spontaneous situation-discussion Redemittel.
 next_retrieval:
-- 'Course registration after a delay: reflexive and für + Akkusativ'
-- Indirect wann question without a model
-- 'Offer a lift: mit dem Auto fahren / jemanden mitnehmen'
-- Passt dir dieser Termin? and Kann ich dort parken?
-- 'Earlier pending: exam goal with zu bestehen, kennen/wissen, uncertain passenden Kurs'
+- 'Offer transport: mit dem Auto zum Bahnhof fahren; modal infinitive without zu'
+- Contrast dich/mich abholen with Passt dir diese Zeit?
+- 'Indirect time question: Ich möchte wissen, wann ... stattfindet'
+- Retain registration after successful delayed recall; earlier uncertain vocabulary
+  remains pending

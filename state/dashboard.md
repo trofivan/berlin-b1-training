@@ -1,6 +1,6 @@
 # Dashboard
 
-**Status:** 2026-09-09: short course-planning dialogue completed. Independent obwohl/deshalb word order and indirect-question final verb correct; registration, transport phrasing and cases still need retrieval. Scores unchanged; no spoken-fluency measurement.
+**Status:** 2026-09-10: Fahrgemeinschaft und Hilfe mit Gepäck schriftlich besprochen. Kursanmeldung nach einem Tag korrekt; Verkehrspräpositionen, passen/abholen und wissen/wann noch unsicher. Erste kurze Leseaufgabe: 3/3 richtig, eine Begründung unvollständig. Bewertungen unverändert; keine Messung der mündlichen Flüssigkeit.
 
 ## Exam readiness
 
@@ -8,7 +8,7 @@ To be established through the first several sessions. Do not assign confident sc
 
 ## Current priorities
 
-1. Complete baseline: Foto beschreiben, Lesen, and live speaking fluency; confirm Schreiben with another sample.
+1. Complete baseline: Foto beschreiben and live speaking fluency; broaden Lesen evidence; confirm Schreiben with another sample.
 2. Stabilize articles/cases in common planning chunks.
 3. Retrieve `wann` questions, `sich für … anmelden`, modal infinitive without `zu`, and longer `obwohl` sentences.
 4. Retrieve transport offers, availability and parking questions without models.
@@ -21,7 +21,7 @@ To be established through the first several sessions. Do not assign confident sc
 | Foto beschreiben | — | — | baseline needed |
 | Situation besprechen | 3 | — | can propose and react; needs more independent Redemittel |
 | Schreiben | 3 | — | provisional first handwritten sample; complete content, clause errors, uncertain/assisted words |
-| Lesen | — | — | baseline needed |
+| Lesen | — | — | erste kurze Aufgabe: 3/3; Begründung einer Antwort noch unvollständig |
 | Wortschatz | 3 | — | useful range; collocation precision varies |
 | Grammatik | 2 | — | short obwohl clauses improve; longer clauses, wann, cases and infinitives remain vulnerable |
 | Flüssigkeit | — | — | baseline needed |

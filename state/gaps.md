@@ -72,3 +72,12 @@ Partial baseline started 2026-09-07. Priorities require confirmation in later se
 - Cases/prepositions remain recurring: `dieser Tag`, `einen Auto`, `bei Strassenbahn`, `beim Auto` → `diesen Tag`, `ein Auto`, `mit der Straßenbahn / mit dem Auto`.
 - Main-clause order: `Aber habe ich` → `Aber ich habe`; abholen retry still needed correction.
 - New practical phrasing targets: `Passt dir dieser Termin?`, `jemanden mitnehmen`, `Kann ich dort parken?`. Parking question failed twice with es gibt before a supported success. Revisit without hints.
+
+### Latest evidence: 2026-09-10
+
+- Registration retrieved correctly after delay: `mich ... für den Yogakurs anmelden`; remains LEARNING.
+- Cases/prepositions recurring: `beim Auto nach Bahnhof` → `mit dem Auto zum Bahnhof`; `dir ... abholen` → `dich ... abholen`; `für dir/für dich` with passen and repeated `dieses Zeit` → `dir`, `diese Zeit`. Correct retries followed models; final diese still failed.
+- Infinitive recurring: `kann ... zu bringen`; mixing bringen with `zum Bahnhof zu fahren`. Correct final transport after explicit support.
+- wissen/wann relapsed: `Ich möchte kennen, wenn die nachsten Termin ist` despite correct initial indirect wann question.
+- Other corrections: `dass es ... gibt`, `dort parken / dorthin fahren`, `zu dir nach Hause`, `Sag mir bitte deine Adresse`, würde not wurde. Polite final `Könntest du mich bitte ... abholen` correct under a communicative prompt.
+- Lesen: 3/3 decisions correct on one short notice; cited closure alone did not establish cancellation. Need further texts and complete supporting evidence.

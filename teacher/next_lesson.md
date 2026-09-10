@@ -1,48 +1,49 @@
 # Nächste Deutschstunde
 
-**Aktualisiert:** 08.09.2026
+**Unterricht:** 11.09.2026 morgens
 
-**Berücksichtigt bis:** Session 08.09.2026
+**Aktualisiert:** 10.09.2026
+
+**Berücksichtigt bis:** Session 10.09.2026 einschließlich abschließender Korrektur
 
 ## Kurzkontext
 
-Ivan hat in zwei kurzen Trainingseinheiten eine persönliche Vorstellung über sein Leben in Berlin und zwei Planungsgespräche bearbeitet (Nachbarschaftspicknick und Abschiedsabend für eine Kollegin). Die Aufgaben wurden schriftlich im Stil einer Sprechsimulation beantwortet. Schreiben, Lesen, Fotobeschreibung und mündliche Flüssigkeit wurden noch nicht bewertet.
+Seit dem letzten Checkpoint: eine handschriftliche E-Mail an eine Sprachschule, zwei schriftliche Planungsgespräche (Kursbesuch, Fahrt zum Bahnhof und Hilfe mit Gepäck) sowie eine kurze Leseaufgabe. Die Antworten in den Gesprächssimulationen wurden getippt; mündliche Flüssigkeit und Fotobeschreibung sind weiterhin nicht beurteilt.
 
 ## Aktuelle Stärken
 
-- Er kann ausführlich über sich, seine Arbeit und Berlin sprechen und Gründe nennen.
-- `dass`, `deshalb` und `wenn` werden produktiv verwendet.
-- `obwohl` mit korrekter Satzstellung wurde am folgenden Tag erfolgreich abgerufen.
-- Er reagiert auf Vorschläge und findet praktische Kompromisse.
+- Ivan schlägt praktische Lösungen vor, begründet sie und reagiert auf Schwierigkeiten.
+- Kurze Sätze mit obwohl/deshalb und indirekte Fragen gelingen teilweise selbstständig; bei späterem Abruf treten wieder Fehler auf.
+- `Ich möchte mich gerne für den Yogakurs anmelden` gelang am 10.09. nach einem Tag ohne Modell.
+- Die handschriftliche E-Mail deckte alle vier Inhaltspunkte ab, war aber mit ca. 140 Wörtern länger als die angeforderten 70–90.
+- Erste kurze Leseaufgabe: 3/3 Entscheidungen richtig; eine Begründung war unvollständig. Noch keine belastbare Gesamteinschätzung für Lesen.
 
 ## Aktuelle Schwierigkeiten
 
-- Artikel, Kasus und Adjektivendungen sind noch instabil.
-- Feste Verbverbindungen müssen genauer werden.
-- `zu + Infinitiv` funktioniert besser, wird aber gelegentlich nach Modalverben verwendet.
-- `wissen` und `kennen` wurden verwechselt.
+Artikel, Kasus und Präpositionen bleiben besonders unter freier Produktion unsicher. Korrekte Wiederholungen halten oft noch nicht bis zum nächsten Abruf. In längeren Sätzen sind Satzbau und Infinitive weniger sicher. Unterstrichene Wörter in der Handschrift bedeuten Unsicherheit oder nachgeschlagene Übersetzung; sie gelten nicht als sicherer Wortschatz.
 
 ## Typische echte Fehler
 
-1. `Ich wohne in Berlin 2 Jahre.` → `Ich wohne seit zwei Jahren in Berlin.`
-2. `das Idee` → `die Idee`
-3. `einen vegetarisches Restaurant` → `ein vegetarisches Restaurant`
-4. `Ich kenne, dass nicht alle Kollegen frei ist.` → `Ich weiß, dass nicht alle Kollegen frei sind.`
-5. `Ich halte das Idee gut ist.` → `Ich halte die Idee für gut.`
-6. `Obwohl es weniger bequem ist, dann treffen wir uns dort.` → `Obwohl es weniger bequem ist, treffen wir uns dort.`
-7. `können ... zu buchen` → `können ... buchen`
+1. `Mein Ziel ist ... die Deutschprüfung B1 bestehen.` → `Mein Ziel ist, die B1-Prüfung zu bestehen.`
+2. `Obwohl ich nicht so viel Zeit zu lernen habe, dass eine große Motivation ich habe.` → `Obwohl ich nicht so viel Zeit zum Lernen habe, bin ich sehr motiviert.`
+3. `Ich möchte an dem Schwimmkurs anmelden.` → `Ich möchte mich für den Schwimmkurs anmelden.` (09.09.; am 10.09. selbstständig korrekt)
+4. `Ich kann dich ... zu bringen.` → `Ich kann dich ... bringen.`
+5. `Ich kann dich beim Auto nach Bahnhof fahren.` → `Ich kann dich mit dem Auto zum Bahnhof fahren.`
+6. `Ich kann dir ... abholen.` → `Ich kann dich ... abholen.`
+7. `Passt die Zeit für dir auch?` → `Passt dir die Zeit auch?`; später wiederholt `dieses Zeit` → `diese Zeit`.
+8. `Ich möchte kennen, wenn die nachsten Termin ist?` → `Ich möchte wissen, wann der nächste Termin ist.`
+9. `Ich erinnere mich, dass ... einen Parkplatz ... gibt.` → `Ich erinnere mich, dass es ... einen Parkplatz ... gibt.`
+10. `Ich wurde dir gerne helfen.` → `Ich würde dir gerne helfen.`
 
 ## Zuletzt geübte Redemittel
 
-- `Was hältst du davon?`
-- `Ich halte die Idee für gut.`
-- `Da hast du recht.`
-- `Das könnte zu einem Problem werden.`
-- `Wir sollten ... und nachfragen, wer kommen kann.`
+- `sich für einen Kurs anmelden`
+- `Könnten Sie mir sagen, wann …?` / `Ich möchte wissen, wann …`
+- `mit dem Auto zum Bahnhof fahren` / `jemanden mitnehmen`
+- `Könntest du mich bitte … abholen?`
+- `Passt dir diese Zeit?`
+- `Ich würde Ihnen gerne helfen.`
 
-## Bitte besonders darauf achten
+## Was aktuell Aufmerksamkeit braucht
 
-- freie Produktion statt Wiederholung direkt nach einem Modell;
-- Artikel und Endungen in häufigen Alltagssätzen;
-- Satzanfänge mit `obwohl` und anschließende Inversion;
-- Unterschied zwischen `wissen` und `kennen`.
+Freier Abruf in wechselnden Alltagssituationen, besonders mich/dich abholen gegenüber dir helfen/passen; Verkehrspräpositionen; wissen/kennen und wann/wenn; Infinitiv ohne zu nach Modalverben. Die abschließende Bitte mit `Könntest du mich … abholen?` gelang, `diese Zeit` erst nach erneuter Korrektur. Wiederholung nach einem Modell ist noch keine Automatisierung. Die bisherigen Bewertungen bleiben unverändert.
