@@ -1,6 +1,6 @@
 # Dashboard
 
-**Status:** 2026-09-10: Fahrgemeinschaft und Hilfe mit Gepäck schriftlich besprochen. Kursanmeldung nach einem Tag korrekt; Verkehrspräpositionen, passen/abholen und wissen/wann noch unsicher. Erste kurze Leseaufgabe: 3/3 richtig, eine Begründung unvollständig. Bewertungen unverändert; keine Messung der mündlichen Flüssigkeit.
+**Status:** 2026-09-12: Fahrten zum Fest, Bahnhof und Flughafen schriftlich besprochen. Indirekte wann-Frage anfangs korrekt; Passt dir diese Zeit? am Ende nach Übung korrekt. dir/dich, mit dem Auto und Infinitive bleiben unsicher. Neu: Ich habe vor, … zu … (bisher nach Vorlage). Positives Lehrerfeedback berichtet, ohne konkrete Leistungsbelege. Bewertungen unverändert.
 
 ## Exam readiness
 

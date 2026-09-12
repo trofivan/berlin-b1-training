@@ -81,3 +81,11 @@ Partial baseline started 2026-09-07. Priorities require confirmation in later se
 - wissen/wann relapsed: `Ich möchte kennen, wenn die nachsten Termin ist` despite correct initial indirect wann question.
 - Other corrections: `dass es ... gibt`, `dort parken / dorthin fahren`, `zu dir nach Hause`, `Sag mir bitte deine Adresse`, würde not wurde. Polite final `Könntest du mich bitte ... abholen` correct under a communicative prompt.
 - Lesen: 3/3 decisions correct on one short notice; cited closure alone did not establish cancellation. Need further texts and complete supporting evidence.
+
+### Latest evidence: 2026-09-12
+
+- Initial wann + final verb and dich abholen correct independently; mir bitte corrected for natural order.
+- Cases recurring: für dir, dir mitnehmen/abholen, Passt für dir dieser Zeit? Final Passt dir diese Zeit? correct after same-session practice; dir helfen correct, dir abholen still failed.
+- Transport: initial mit dem Auto followed by repeated beim Auto; final mit meinem Auto correct under a communicative prompt after practice.
+- Infinitives: möchtest … hinzufahren failed; later bare modal infinitives correct, then learner queried könnte … abzuholen/mitzunehmen. New Ich habe vor + zu repeated from model; delayed retrieval pending.
+- spätestens / verlassen explicitly looked up. Introduced spätestens um … losfahren; verlassen needs an object. No stability or score promotion.

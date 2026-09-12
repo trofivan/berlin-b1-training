@@ -1,5 +1,5 @@
 version: 1
-updated: '2026-09-10'
+updated: '2026-09-12'
 exam_readiness:
   overall: null
   note: Partial baseline includes first handwritten email (2026-09-08-2). Underlined
@@ -29,6 +29,9 @@ skills:
     - '2026-09-10: Typed station-lift dialogue: proposed supermarket parking, explained
       free period and offered help with luggage. Case, preposition and collocation
       support needed; no spoken fluency measurement.'
+    - '2026-09-12: Typed transport dialogue; proposed earlier departure with a buffer.
+      spätestens/verlassen looked up; case and collocation support needed. Teacher
+      praise reported without specific performance evidence.'
   schreiben:
     score: 3
     trend: unknown
@@ -69,6 +72,10 @@ skills:
       infinitive, transport prepositions and passen cases relapsed later. Final polite
       request correctly used Könntest du mich ... abholen; diese Zeit still failed.
       Supported retries are not mastery.'
+    - '2026-09-12: Initial wann + final verb and dich abholen correct. Recurrent beim
+      Auto, dir abholen/mitnehmen and für dir; final prompted Passt dir diese Zeit?
+      and mit meinem Auto correct after practice. Modal zu remained uncertain; new
+      vorhaben + zu copied from model. Scores unchanged.'
   fluessigkeit:
     score: null
     trend: unknown
@@ -93,8 +100,8 @@ current_priorities:
 - Retrieve obwohl + main-clause inversion and zu + infinitive.
 - Build spontaneous situation-discussion Redemittel.
 next_retrieval:
-- 'Offer transport: mit dem Auto zum Bahnhof fahren; modal infinitive without zu'
-- Contrast dich/mich abholen with Passt dir diese Zeit?
-- 'Indirect time question: Ich möchte wissen, wann ... stattfindet'
-- Retain registration after successful delayed recall; earlier uncertain vocabulary
-  remains pending
+- Contrast dir helfen / dich abholen / Passt dir diese Zeit?
+- Transport offer with mit dem Auto without hints
+- könnte + bare infinitive versus Ich habe vor + zu in a new context
+- 'spätestens um … losfahren: introduced with lookup/support; retrieve independently'
+- Retain indirect wann questions, registration and earlier uncertain vocabulary

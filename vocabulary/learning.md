@@ -100,3 +100,24 @@ Suggested entry format:
 - `wissen / wann`: initial indirect wann question correct; later `kennen, wenn` relapse.
 - `Ich würde Ihnen gerne helfen`: correct after targeted correction, not spontaneous mastery.
 - `dich/mich abholen`: final polite request with mich correct after role change; earlier dir error. All remain LEARNING.
+
+## Ich habe vor, … zu …
+- RU: я планирую / собираюсь …
+- Example: `Ich habe vor, am Wochenende Deutsch zu lernen.`
+- Topics: Alltag, Pläne
+- Introduced: 2026-09-12
+- Evidence: learner liked the construction and repeated the transport model; independent retrieval pending. LEARNING.
+
+## spätestens um … losfahren
+- RU: выехать не позднее …
+- Example: `Wir müssen spätestens um 8 Uhr losfahren.`
+- Topics: Verkehr, Termine
+- Introduced: 2026-09-12
+- Evidence: spätestens explicitly looked up; bis/verlassen corrected to um/losfahren. LEARNING.
+
+## Session evidence 2026-09-12
+- `Passt dir diese Zeit?`: earlier repeated case/preposition errors; final airport response correct after same-session practice, not stable.
+- `dir helfen / dich abholen / dich mitnehmen`: helfen correct; abholen initially dich, later dir. Contrast remains a retrieval priority.
+- `mit dem Auto`: correct initial use followed by beim Auto relapse; final mit meinem Auto correct after practice.
+- Indirect wann question initially correct independently; modal infinitive still uncertain. New vorhaben model reproduction does not establish mastery.
+- `verlassen` explicitly looked up and used without an object; contrast `das Haus verlassen` / `losfahren` introduced.

@@ -1,10 +1,23 @@
 version: 1
-updated: '2026-09-10'
+updated: '2026-09-12'
 title: Vor der nächsten Session
 intro: Die ersten sechs Karten sind der aktuelle Fokus. Frühere Karten bleiben zum
   Wiederholen erhalten. Wähle pro Runde 4–6 Karten und sprich die deutsche Version
   laut aus, bevor du die Antwort öffnest.
 items:
+- prompt: Я могу тебе помочь и забрать тебя в 7 часов.
+  answer: Ich kann dir helfen und dich um 7 Uhr abholen.
+  note: helfen + dir; abholen + dich; после kann без zu
+  source: '2026-09-12'
+- prompt: Я планирую в выходные учить немецкий.
+  answer: Ich habe vor, am Wochenende Deutsch zu lernen.
+  note: vorhaben + zu; новая конструкция пока только повторена по образцу
+  source: '2026-09-12'
+- prompt: Мы должны выехать не позднее 8 часов.
+  answer: Wir müssen spätestens um 8 Uhr losfahren.
+  note: spätestens подсмотрено; losfahren предложено при коррекции; после müssen без
+    zu
+  source: '2026-09-12'
 - prompt: Я могу отвезти тебя на машине до вокзала.
   answer: Ich kann dich mit dem Auto zum Bahnhof fahren.
   note: mit dem Auto; zum Bahnhof; после kann без zu
@@ -15,8 +28,9 @@ items:
   source: '2026-09-10'
 - prompt: Тебе подходит это время?
   answer: Passt dir diese Zeit?
-  note: passen + Dativ без für; die Zeit → diese Zeit; ошибка повторилась в конце
-  source: '2026-09-10'
+  note: passen + Dativ без für; diese Zeit. 12.09 сначала ошибки, в конце верно после
+    практики; проверить после перерыва
+  source: 2026-09-10; 2026-09-12
 - prompt: Я хотел бы узнать, когда состоится следующая встреча соседей.
   answer: Ich möchte wissen, wann der nächste Nachbarschaftstreff stattfindet.
   note: wissen, не kennen; wann, не wenn; глагол в конце
