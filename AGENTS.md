@@ -357,17 +357,16 @@ When generating `teacher/next_lesson.md`:
 
 Write the teacher-facing summary primarily in **German**.
 
-Include:
-1. short context since last lesson;
-2. current strongest and weakest areas;
-3. 5–10 real mistakes/examples when available;
-4. recently practised Redemittel;
-5. what currently needs attention;
-6. the last included session as a checkpoint.
+Use the compact format in `templates/teacher_brief.md` (aim for 200–250 words):
+1. “Nach dem <date> hat Ivan zwischen den Unterrichtsstunden Folgendes geübt”, followed by a linked session list: date, topics/tasks, evidenced duration. Use the last known teacher lesson date or explicitly identify the previous checkpoint as the fallback; never invent a lesson date. Include only sessions after that boundary.
+2. **Das klappt gut**: 1–2 evidence-based strengths.
+3. **Das ist noch unsicher**: 2–3 current priorities; integrate relevant Redemittel here.
+4. **Typische Fehler**: 3–5 representative real originals → minimal corrections, when available.
+5. Updated date and last included session as the checkpoint.
 
-Do not create exercises, dialogue questions, role plays, or a lesson plan unless the learner explicitly asks for them. The default artifact is a concise informational summary for the teacher.
+Distinguish elapsed conversation time from active study time; label estimates and unknown durations. Do not substitute planned duration for measured time. Distinguish independent production from supported retries; add only a brief evidence limitation when useful.
 
-Keep the brief reasonably short.
+Do not create exercises, dialogue questions, role plays, or a lesson plan unless the learner explicitly asks for them. Keep this a short informational summary; avoid separate sections that repeat the same priorities or vocabulary.
 
 ## Voice prompt generation
 
