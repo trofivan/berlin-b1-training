@@ -1,5 +1,5 @@
 version: 1
-updated: '2026-09-12'
+updated: '2026-09-15'
 title: Vor der nächsten Session
 intro: Die ersten sechs Karten sind der aktuelle Fokus. Frühere Karten bleiben zum
   Wiederholen erhalten. Wähle pro Runde 4–6 Karten und sprich die deutsche Version
@@ -7,8 +7,31 @@ intro: Die ersten sechs Karten sind der aktuelle Fokus. Frühere Karten bleiben 
 items:
 - prompt: Я могу тебе помочь и забрать тебя в 7 часов.
   answer: Ich kann dir helfen und dich um 7 Uhr abholen.
-  note: helfen + dir; abholen + dich; после kann без zu
-  source: '2026-09-12'
+  note: helfen + dir; abholen + dich; после kann без zu; 15.09 ошибки в начале, успешный
+    перенос просьбы/времени в конце после практики; ещё не стабильно
+  source: 2026-09-12; 2026-09-15
+- prompt: Тебе подходит это время?
+  answer: Passt dir diese Zeit?
+  note: passen + Dativ без für; diese Zeit. 12.09 сначала ошибки, в конце верно после
+    практики; проверить после перерыва; 15.09 ошибки в начале, успешный перенос просьбы/времени
+    в конце после практики; ещё не стабильно
+  source: 2026-09-10; 2026-09-12; 2026-09-15
+- prompt: Мы можем найти решение.
+  answer: Wir können eine Lösung finden.
+  note: После können без zu; 15.09 ошибка, затем повтор образца.
+  source: '2026-09-15'
+- prompt: В воскресенье утром у меня есть время только с 9 до 11.
+  answer: Am Sonntagmorgen habe ich nur von 9 bis 11 Uhr Zeit.
+  note: am, не im/an; 15.09 ошибка сохранилась в повторе.
+  source: '2026-09-15'
+- prompt: Я могу помочь тебе с переездом. Мы могли бы арендовать фургон.
+  answer: Ich kann dir beim Umzug helfen. Wir könnten einen Transporter mieten.
+  note: Umzug/Transporter предложены при коррекции; проверить без подсказки.
+  source: '2026-09-15'
+- prompt: Шкаф тяжёлый. Не мог бы ты мне помочь?
+  answer: Der Schrank ist schwer. Könntest du mir bitte helfen?
+  note: schwer подсмотрено 15.09; просьба сформулирована верно.
+  source: '2026-09-15'
 - prompt: Я планирую в выходные учить немецкий.
   answer: Ich habe vor, am Wochenende Deutsch zu lernen.
   note: vorhaben + zu; новая конструкция пока только повторена по образцу
@@ -26,11 +49,6 @@ items:
   answer: Könntest du mich bitte am Sonntag um 10 Uhr morgens abholen?
   note: 'abholen + Akkusativ: mich/dich; morgens — утром'
   source: '2026-09-10'
-- prompt: Тебе подходит это время?
-  answer: Passt dir diese Zeit?
-  note: passen + Dativ без für; diese Zeit. 12.09 сначала ошибки, в конце верно после
-    практики; проверить после перерыва
-  source: 2026-09-10; 2026-09-12
 - prompt: Я хотел бы узнать, когда состоится следующая встреча соседей.
   answer: Ich möchte wissen, wann der nächste Nachbarschaftstreff stattfindet.
   note: wissen, не kennen; wann, не wenn; глагол в конце

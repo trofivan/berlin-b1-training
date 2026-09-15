@@ -1,6 +1,6 @@
 # Dashboard
 
-**Status:** 2026-09-12: Fahrten zum Fest, Bahnhof und Flughafen schriftlich besprochen. Indirekte wann-Frage anfangs korrekt; Passt dir diese Zeit? am Ende nach Übung korrekt. dir/dich, mit dem Auto und Infinitive bleiben unsicher. Neu: Ich habe vor, … zu … (bisher nach Vorlage). Positives Lehrerfeedback berichtet, ohne konkrete Leistungsbelege. Bewertungen unverändert.
+**Status:** 2026-09-15: Umzug und Möbeltransport schriftlich besprochen. Anfangs dir helfen und mit dem Auto nach drei Tagen korrekt; am Ende höfliche Bitte und Passt dir diese Zeit? im neuen Kontext nach Übung korrekt. dir/dich, Modalinfinitiv und am Sonntagmorgen bleiben unsicher. Umzug/Transporter mit Hilfe, schwer nachgeschlagen. Bewertungen unverändert.
 
 ## Exam readiness
 

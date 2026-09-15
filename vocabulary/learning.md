@@ -121,3 +121,23 @@ Suggested entry format:
 - `mit dem Auto`: correct initial use followed by beim Auto relapse; final mit meinem Auto correct after practice.
 - Indirect wann question initially correct independently; modal infinitive still uncertain. New vorhaben model reproduction does not establish mastery.
 - `verlassen` explicitly looked up and used without an object; contrast `das Haus verlassen` / `losfahren` introduced.
+
+## beim Umzug helfen / einen Transporter mieten
+- RU: помогать с переездом / арендовать фургон
+- Example: `Ich kann dir beim Umzug helfen. Wir könnten einen Transporter mieten.`
+- Topics: Wohnen, Hilfe organisieren
+- Introduced: 2026-09-15
+- Evidence: Bewebung explicitly looked up but unsuitable; Umzug supplied. Miettelauto corrected to Transporter, then repeated with typo. LEARNING; independent recall pending.
+
+## Der Schrank ist schwer.
+- RU: Шкаф тяжёлый.
+- Example: `Der Schrank ist schwer. Könntest du mir bitte helfen?`
+- Topics: Wohnen, Einkaufen
+- Introduced: 2026-09-15
+- Evidence: schwer explicitly looked up; surrounding clause correct. LEARNING.
+
+## Session evidence 2026-09-15
+- Initial dir helfen and mit dem Auto independently correct after delay; dir abholen failed. Final Könntest du mir bitte helfen? correct in new furniture context.
+- Passt dir diese Zeit? initially failed, correct final transfer after repeated same-session correction. Retain LEARNING.
+- können eine Lösung finden corrected from können … zu finden; model-based repeat. am Sonntagmorgen still im on retry. Retain for retrieval.
+- vorhaben + zu and spätestens not tested today; earlier evidence unchanged.

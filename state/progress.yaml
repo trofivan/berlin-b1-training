@@ -1,10 +1,10 @@
 version: 1
-updated: '2026-09-12'
+updated: '2026-09-15'
 exam_readiness:
   overall: null
-  note: Partial baseline includes first handwritten email (2026-09-08-2). Underlined
-    items uncertain or possibly looked up. No Lesen, photo, or spoken-fluency evidence
-    yet.
+  note: 'Partial baseline: handwritten email 2026-09-08-2 and one short Lesen sample
+    2026-09-10. Uncertain/looked-up vocabulary remains unmastered. No photo or spoken-fluency
+    evidence yet.'
 skills:
   kennenlernen:
     score: 3
@@ -32,6 +32,9 @@ skills:
     - '2026-09-12: Typed transport dialogue; proposed earlier departure with a buffer.
       spätestens/verlassen looked up; case and collocation support needed. Teacher
       praise reported without specific performance evidence.'
+    - '2026-09-15: Typed moving dialogue: proposed a rental transporter and Sunday
+      availability; requested time details sometimes missed. Final furniture-help
+      request correct after practice; no spoken-fluency measurement.'
   schreiben:
     score: 3
     trend: unknown
@@ -52,6 +55,8 @@ skills:
     evidence:
     - '2026-09-07: Useful planning language; needed support for sich kennenlernen,
       einen Pavillon aufstellen, and einen Aushang aufhängen.'
+    - '2026-09-15: Umzug and Transporter supplied after incorrect words; schwer explicitly
+      looked up. Final einen neuen Schrank correct; no ACTIVE promotion.'
   grammatik:
     score: 2
     trend: unknown
@@ -76,6 +81,10 @@ skills:
       Auto, dir abholen/mitnehmen and für dir; final prompted Passt dir diese Zeit?
       and mit meinem Auto correct after practice. Modal zu remained uncertain; new
       vorhaben + zu copied from model. Scores unchanged.'
+    - '2026-09-15: Initial dir helfen and mit dem Auto independently correct after
+      delay; dir abholen, können … zu finden, am Sonntagmorgen and availability errors
+      recur. Final Könntest du mir bitte helfen? and Passt dir diese Zeit? correct
+      in new context after practice; scores unchanged.'
   fluessigkeit:
     score: null
     trend: unknown
@@ -100,8 +109,9 @@ current_priorities:
 - Retrieve obwohl + main-clause inversion and zu + infinitive.
 - Build spontaneous situation-discussion Redemittel.
 next_retrieval:
-- Contrast dir helfen / dich abholen / Passt dir diese Zeit?
-- Transport offer with mit dem Auto without hints
-- könnte + bare infinitive versus Ich habe vor + zu in a new context
-- 'spätestens um … losfahren: introduced with lookup/support; retrieve independently'
-- Retain indirect wann questions, registration and earlier uncertain vocabulary
+- dir helfen / dich abholen and Passt dir diese Zeit? after delay
+- können eine Lösung finden without zu; retain vorhaben + zu
+- am Sonntagmorgen; von … bis … Zeit haben
+- beim Umzug helfen; einen Transporter mieten; schwer without lookup
+- Retain spätestens um … losfahren, indirect wann questions, registration and earlier
+  uncertain vocabulary

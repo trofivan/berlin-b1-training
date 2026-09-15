@@ -89,3 +89,12 @@ Partial baseline started 2026-09-07. Priorities require confirmation in later se
 - Transport: initial mit dem Auto followed by repeated beim Auto; final mit meinem Auto correct under a communicative prompt after practice.
 - Infinitives: möchtest … hinzufahren failed; later bare modal infinitives correct, then learner queried könnte … abzuholen/mitzunehmen. New Ich habe vor + zu repeated from model; delayed retrieval pending.
 - spätestens / verlassen explicitly looked up. Introduced spätestens um … losfahren; verlassen needs an object. No stability or score promotion.
+
+### Latest evidence: 2026-09-15
+
+- Initial dir helfen and mit dem Auto independently correct after three days; dir abholen still failed. Retry changed helfen to könnte ich gerne helfen. Final Könntest du mir bitte helfen? correct in new context.
+- Availability: Passt der Zeit dir gut? / Pass dir dieser Zeit?; final Passt dir diese Zeit? correct after repeated practice, not stable. 11 Uhr passt mir sehr gut correct independently.
+- Modal infinitives mixed: können eine Losung zu finden failed; kann … mieten/transportieren correct. Corrected solution repeated from model. vorhaben + zu not tested.
+- am Sonntagmorgen still im on retry; von 9 bis 11 Uhr corrected. mit diesem großes Auto → großen; corrected repeat model-based.
+- Moving vocabulary: looked-up Bewebung unsuitable; beim Umzug and einen Transporter mieten supplied. schwer explicitly looked up in final answer. Revisit without hints.
+- Task details: pickup before stated availability; 10:30 retry retained 10:00. Departure-time question unanswered. No new handwriting, Lesen or spoken evidence.
