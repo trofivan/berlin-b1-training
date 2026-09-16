@@ -1,10 +1,35 @@
 version: 1
-updated: '2026-09-15'
+updated: '2026-09-16'
 title: Vor der nächsten Session
 intro: Die ersten sechs Karten sind der aktuelle Fokus. Frühere Karten bleiben zum
   Wiederholen erhalten. Wähle pro Runde 4–6 Karten und sprich die deutsche Version
   laut aus, bevor du die Antwort öffnest.
 items:
+- prompt: Я жду подтверждения. Я жду этого.
+  answer: Ich warte auf die Bestätigung. Ich warte darauf.
+  note: warten auf → darauf; 16.09 форма верна, Bestätigung не вспомнил.
+  source: '2026-09-16'
+- prompt: Мы говорим о поездке. Мы говорим об этом.
+  answer: Wir sprechen über die Reise. Wir sprechen darüber.
+  note: sprechen über, без gegen; 16.09 полная форма с ошибкой, darüber верно.
+  source: '2026-09-16'
+- prompt: Ты помнишь о напитках? — Да, я об этом помню.
+  answer: Denkst du an die Getränke? – Ja, ich denke daran.
+  note: denken an → daran; не добавлять daran к mitbringen.
+  source: '2026-09-16'
+- prompt: Я буду ждать тебя дома.
+  answer: Ich werde zu Hause auf dich warten.
+  note: 'Человек: auf dich, не darauf; 16.09 было dich warten.'
+  source: '2026-09-16'
+- prompt: Я займусь едой.
+  answer: Ich kümmere mich um das Essen.
+  note: 16.09 значение kümmern подсмотрено; самостоятельное употребление не проверено.
+  source: '2026-09-16'
+- prompt: Я планирую в выходные учить немецкий.
+  answer: Ich habe vor, am Wochenende Deutsch zu lernen.
+  note: vorhaben + zu; 16.09 сначала пропуск zu, в конце mitzubringen верно после
+    практики; проверить после перерыва
+  source: 2026-09-12; 2026-09-16
 - prompt: Я могу тебе помочь и забрать тебя в 7 часов.
   answer: Ich kann dir helfen und dich um 7 Uhr abholen.
   note: helfen + dir; abholen + dich; после kann без zu; 15.09 ошибки в начале, успешный
@@ -32,10 +57,6 @@ items:
   answer: Der Schrank ist schwer. Könntest du mir bitte helfen?
   note: schwer подсмотрено 15.09; просьба сформулирована верно.
   source: '2026-09-15'
-- prompt: Я планирую в выходные учить немецкий.
-  answer: Ich habe vor, am Wochenende Deutsch zu lernen.
-  note: vorhaben + zu; новая конструкция пока только повторена по образцу
-  source: '2026-09-12'
 - prompt: Мы должны выехать не позднее 8 часов.
   answer: Wir müssen spätestens um 8 Uhr losfahren.
   note: spätestens подсмотрено; losfahren предложено при коррекции; после müssen без

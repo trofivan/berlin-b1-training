@@ -1,5 +1,5 @@
 version: 1
-updated: '2026-09-15'
+updated: '2026-09-16'
 exam_readiness:
   overall: null
   note: 'Partial baseline: handwritten email 2026-09-08-2 and one short Lesen sample
@@ -35,6 +35,9 @@ skills:
     - '2026-09-15: Typed moving dialogue: proposed a rental transporter and Sunday
       availability; requested time details sometimes missed. Final furniture-help
       request correct after practice; no spoken-fluency measurement.'
+    - '2026-09-16: Typed lake-excursion planning: time proposal, agreement with dafür,
+      food/drinks offer and preference question. No developed reason or spoken-fluency
+      evidence.'
   schreiben:
     score: 3
     trend: unknown
@@ -85,6 +88,9 @@ skills:
       delay; dir abholen, können … zu finden, am Sonntagmorgen and availability errors
       recur. Final Könntest du mir bitte helfen? and Passt dir diese Zeit? correct
       in new context after practice; scores unchanged.'
+    - '2026-09-16: da-compounds prompted: darauf/darüber correct, but sprechen gegen
+      über and daran with mitbringen failed. warten auf dich corrected. vorhaben initially
+      missing zu; final mitzubringen correct after practice. No stability claim.'
   fluessigkeit:
     score: null
     trend: unknown
@@ -109,9 +115,9 @@ current_priorities:
 - Retrieve obwohl + main-clause inversion and zu + infinitive.
 - Build spontaneous situation-discussion Redemittel.
 next_retrieval:
-- dir helfen / dich abholen and Passt dir diese Zeit? after delay
-- können eine Lösung finden without zu; retain vorhaben + zu
-- am Sonntagmorgen; von … bis … Zeit haben
-- beim Umzug helfen; einen Transporter mieten; schwer without lookup
-- Retain spätestens um … losfahren, indirect wann questions, registration and earlier
-  uncertain vocabulary
+- sprechen über etwas / darüber; warten auf etwas / darauf versus auf dich
+- denken an etwas / daran; distinguish dorthin from davon
+- vorhaben + zu and separable infinitives after delay; modal infinitives without zu
+- 'sich um etwas kümmern: meaning looked up; Bestätigung vocabulary'
+- Retain dir helfen / dich abholen, availability, moving vocabulary and earlier unmastered
+  cards

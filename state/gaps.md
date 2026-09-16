@@ -98,3 +98,11 @@ Partial baseline started 2026-09-07. Priorities require confirmation in later se
 - am Sonntagmorgen still im on retry; von 9 bis 11 Uhr corrected. mit diesem großes Auto → großen; corrected repeat model-based.
 - Moving vocabulary: looked-up Bewebung unsuitable; beim Umzug and einen Transporter mieten supplied. schwer explicitly looked up in final answer. Revisit without hints.
 - Task details: pickup before stated availability; 10:30 retry retained 10:00. Departure-time question unanswered. No new handwriting, Lesen or spoken evidence.
+
+### Latest evidence: 2026-09-16
+
+- New da-compound target (learning): prompted darauf/darüber correct, but final `sprechen gegen über` → `sprechen über`. `daran ... mitzubringen` failed verb linkage; later denken daran correct after a model. `davon losfahren` confused reference with direction; learner self-revised to dorthin.
+- `dich ... warten` → `auf dich warten`; distinguish people from da-forms. helfen initially omitted ihm, corrected on retry.
+- vorhaben + zu initially failed after delay; later warten/mitzubringen correct after support. Final den Kaffee mitzubringen valid. Keep improving, not stable.
+- `das ist gutee Idee` → `das ist eine gute Idee`; `das Kaffe` → `der/den Kaffee` or bare Kaffee. Bestätigung not retrieved accurately; Filterkaffee/Magst spelling uncertain.
+- sich um etwas kümmern explicitly looked up for comprehension. No independent production evidence. Previous case/modal priorities retained.

@@ -12,8 +12,10 @@ Track grammatical / discourse patterns as productive skills.
 | einerseits ... andererseits ... | unmeasured | |
 | um ... zu / zu + Infinitiv | learning | 2026-09-08-2: missing zu after Mein Ziel ist; unnecessary zu after möchte. Correct on supported retry; um … zu unmeasured. |
 | indirekte Fragen mit wann | learning | 2026-09-08-2: repeated wenn substitution; final wann … anfängt correct after prompts. |
-| damit | unmeasured | |
+| damit (Konjunktion: Zweck) | unmeasured | Distinct from pronominal damit = mit etwas. |
 | würde / könnte / wäre | learning | Several correct productive uses of `würde`, `könnte`, and `sollten`. |
 | Meinung begründen | learning | Gave reasons and consequences with support. |
 | Vorteil / Nachteil formulieren | learning | Produced `Ein Vorteil ist, dass ...` after prompting. |
 | höflich reagieren / widersprechen | learning | Produced `Da hast du recht`; disagreement not yet measured. |
+| Verb + Präposition → da-Verbindung | learning | 2026-09-16: prompted darauf/darüber correct; full sprechen über and daran linkage failed. Supported transfer, not stable. |
+| vorhaben / vorschlagen + zu | learning | 2026-09-16: initially missing zu; final mitzubringen correct after same-session practice. |

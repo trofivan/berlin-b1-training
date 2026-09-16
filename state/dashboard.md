@@ -1,6 +1,6 @@
 # Dashboard
 
-**Status:** 2026-09-15: Umzug und Möbeltransport schriftlich besprochen. Anfangs dir helfen und mit dem Auto nach drei Tagen korrekt; am Ende höfliche Bitte und Passt dir diese Zeit? im neuen Kontext nach Übung korrekt. dir/dich, Modalinfinitiv und am Sonntagmorgen bleiben unsicher. Umzug/Transporter mit Hilfe, schwer nachgeschlagen. Bewertungen unverändert.
+**Status:** 2026-09-16: Ausflug zum See und da-Verbindungen geübt. darauf/darüber in Aufgaben korrekt; sprechen über und die Zuordnung von daran noch unsicher. vorhaben + zu anfangs fehlerhaft, am Ende nach Übung korrekt. kümmern nachgeschlagen. Nur schriftliche Chatantworten; Bewertungen unverändert.
 
 ## Exam readiness
 
@@ -12,6 +12,7 @@ To be established through the first several sessions. Do not assign confident sc
 2. Stabilize articles/cases in common planning chunks.
 3. Retrieve `wann` questions, `sich für … anmelden`, modal infinitive without `zu`, and longer `obwohl` sentences.
 4. Retrieve transport offers, availability and parking questions without models.
+5. Festigen: warten auf → darauf, sprechen über → darüber, denken an → daran; Personen und Richtungsangaben unterscheiden.
 
 ## Skills
 

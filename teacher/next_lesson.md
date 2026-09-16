@@ -1,29 +1,32 @@
 # Kurzbericht für die Lehrkraft
 
-**Aktualisiert:** 15.09.2026
+**Aktualisiert:** 16.09.2026
 
-**Berücksichtigt bis:** 12.09.2026 einschließlich Infinitivklärung
+**Berücksichtigt bis:** 16.09.2026 einschließlich Abschlussabruf
 
-Nach dem 11.09.2026 hat Ivan zwischen den Unterrichtsstunden Folgendes geübt:
+Nach dem 12.09.2026 hat Ivan zwischen den Unterrichtsstunden Folgendes geübt (bisheriger Checkpoint als Grenze; Datum des jüngsten Unterrichts nicht angegeben):
 
-- [12.09.2026 — Fahrten organisieren](../../sessions/2026-09-12/): Hilfe anbieten, Abholzeiten vereinbaren, auf eine frühere Zugabfahrt reagieren; Modalverben und `vorhaben + zu`. Ca. **67 Min.** verstrichene Gesprächszeit, inklusive möglicher Pausen; aktive Lernzeit nicht gemessen.
+- [15.09.2026 — Umzug und Möbeltransport](../../sessions/2026-09-15/): Hilfe anbieten, Transport organisieren, Zeiten vereinbaren; ca. **33 Min.**
+- [16.09.2026 — Ausflug und da-Verbindungen](../../sessions/2026-09-16/): Vorschläge, Verpflegung, `darauf/darüber/daran`, `vorhaben + zu`; ca. **36 Min.**
+
+Die Zeiten bezeichnen verstrichene Gesprächszeit einschließlich möglicher Pausen; aktive Lernzeit wurde nicht gemessen. Ivan berichtet, im jüngsten Unterricht da-Verbindungen behandelt zu haben; das bereitgestellte Material wurde am 16.09. aufgegriffen.
 
 ## Das klappt gut
 
-- Eigene praktische Vorschläge, z. B. früher losfahren und Zeitreserve einplanen.
-- Selbstständig korrekt: `wann das Sommerfest beginnt` und `Ich möchte dich um 14 Uhr abholen`.
+- Am 15.09. nach mehrtägiger Pause selbstständig korrekt: `dir helfen`, `mit dem Auto` und `11 Uhr passt mir sehr gut`.
+- Am 16.09. passende Formen `darauf/darüber` in gezielten Aufgaben; am Ende `Ich habe vor, den Kaffee mitzubringen` korrekt nach Übung. Eigenständig ergänzte Nachfrage nach der Kaffeevorliebe.
 
 ## Das ist noch unsicher
 
-- `dir helfen / dich abholen / dir passen` und `mit dem Auto`: Fehler kehren nach Korrekturen zurück.
-- Modalverb ohne `zu` gegenüber `vorhaben + zu`; Letzteres bisher nur nach Vorlage.
+- Verbindung mit dem Verb: `sprechen über → darüber`, `denken an → daran`; `daran` wurde zunächst mit `mitbringen` kombiniert. Personen: `auf dich warten`; Richtung: `dorthin`.
+- `vorhaben + zu` zunächst ohne `zu`; später korrekt. Modalinfinitiv ohne `zu` bleibt nach Fehlern vom 15.09. relevant.
+- `dir helfen / dich abholen`, `Passt dir diese Zeit?` und Artikel bleiben wechselhaft. Bedeutung von `sich um etwas kümmern` nachgeschlagen.
 
 ## Typische Fehler
 
-- `Ich kann dir … mitnehmen.` → `Ich kann dich … mitnehmen.`
-- `Passt für dir dieser Zeit?` → `Passt dir diese Zeit?`
-- `zum Bahnhof beim Auto` → `mit dem Auto zum Bahnhof`
-- `Möchtest du … hinzufahren?` → `Möchtest du … hinfahren?`
-- `spätestens bis 8:15 Uhr verlassen` → `spätestens um 8:15 Uhr losfahren`
+- `Wir sprechen gegen über die Reise.` → `Wir sprechen über die Reise.`
+- `dich … zu warten` → `auf dich … zu warten`
+- `zum See fahren` nach `Wir haben vor` → `zum See zu fahren`
+- `wir können eine Losung zu finden` → `wir können eine Lösung finden`
 
-*Grundlage: getippte Antworten; mündliche Flüssigkeit wurde nicht beurteilt.*
+*Nur getippte Antworten; unmittelbare Wiederholungen belegen noch keine sichere spontane Verwendung.*

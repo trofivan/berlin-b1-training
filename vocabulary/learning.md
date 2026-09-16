@@ -141,3 +141,23 @@ Suggested entry format:
 - Passt dir diese Zeit? initially failed, correct final transfer after repeated same-session correction. Retain LEARNING.
 - können eine Lösung finden corrected from können … zu finden; model-based repeat. am Sonntagmorgen still im on retry. Retain for retrieval.
 - vorhaben + zu and spätestens not tested today; earlier evidence unchanged.
+
+## Verb + Präposition → da-Verbindung
+- RU: ссылка на уже названный предмет, событие или тему; форма зависит от предлога при глаголе.
+- Example: `Ich warte auf die Bestätigung. Ich warte darauf.` / `Wir sprechen über die Reise. Wir sprechen darüber.` / `Ich denke an die Getränke. Ich denke daran.`
+- Topics: Termine, Pläne, Alltag
+- Introduced: 2026-09-16; material from teacher, lesson date unknown.
+- Evidence: prompted darauf/darüber correct; full sprechen über failed in final recall. daran first misplaced with mitbringen; correct later after model. LEARNING.
+
+## sich um etwas kümmern
+- RU: заняться чем-либо / позаботиться о чём-либо.
+- Example: `Ich kümmere mich um das Essen.`
+- Topics: Aufgaben verteilen
+- Introduced: 2026-09-16
+- Evidence: meaning explicitly looked up while reading coach prompt; production untested. LEARNING.
+
+## Session evidence 2026-09-16
+- `Ich habe vor, … zu …`: initial delayed omission of zu; supported retries, then correct same-session transfer to warten/mitbringen and final mitzubringen. Remains LEARNING.
+- `Ich bin dafür`: correct under explicit da-form cue, no spontaneous multi-session evidence.
+- `jemandem damit helfen`: damit correct initially, ihm supplied then repeated.
+- `die Bestätigung`: final Bescheigung did not retrieve requested word; retain in review.
