@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import html
+import hashlib
 import re
 import shutil
 from datetime import date, datetime
@@ -105,8 +106,9 @@ def plain(markdown_text: str) -> str:
 def build_review(progress: dict, review: dict) -> None:
     cards = []
     for index, item in enumerate(review.get("items", []), start=1):
+        card_id = hashlib.sha256(item['prompt'].encode('utf-8')).hexdigest()
         cards.append(f"""
-        <article class="review-card flip-card">
+        <article class="review-card flip-card" data-card-id="{card_id}">
           <div class="flip-card-inner">
             <div class="flip-card-face flip-card-front">
               <span class="card-number">KARTE {index:02d} · FRAGE</span>
@@ -134,6 +136,10 @@ def build_review(progress: dict, review: dict) -> None:
       </div>
       <div class="updated">Aktualisiert am {display_date(review.get('updated', ''))}</div>
     </section>
+    <div class="review-actions" role="group" aria-label="Alle Karten umdrehen">
+      <button class="reveal" type="button" data-flip-all="true">Alle Karten aufdecken</button>
+      <button class="reveal" type="button" data-flip-all="false">Alle Karten verdecken</button>
+    </div>
     <section class="grid" aria-label="Karten zum Wiederholen">{''.join(cards)}</section>
     <section class="card panel" style="margin-top:18px">
       <h2>Aktueller Fokus</h2>
